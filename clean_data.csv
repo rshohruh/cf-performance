@@ -1,0 +1,1071 @@
+handle,contestId,contestName,rank,oldRating,newRating,delta,ratingUpdateTime,is_outlier_IQR,reading_group
+moai06,1954,Educational Codeforces Round 164 (Rated for Div. 2),8960,0,436,436,2024-04-12 16:35:00,True,Non-reader
+moai06,1966,Codeforces Round 941 (Div. 2),7980,436,684,248,2024-04-27 16:35:00,True,Non-reader
+moai06,1969,Educational Codeforces Round 165 (Rated for Div. 2),8887,684,861,177,2024-04-29 16:35:00,False,Non-reader
+moai06,1972,Codeforces Round 942 (Div. 2),6032,861,999,138,2024-04-30 17:05:00,False,Non-reader
+moai06,1968,Codeforces Round 943 (Div. 3),14553,999,1007,8,2024-05-02 17:00:00,False,Non-reader
+moai06,1973,Codeforces Round 945 (Div. 2),11596,1007,1004,-3,2024-05-17 16:35:00,False,Non-reader
+moai06,1974,Codeforces Round 946 (Div. 3),13359,1004,974,-30,2024-05-20 16:50:00,False,Non-reader
+moai06,1975,Codeforces Round 947 (Div. 1 + Div. 2),8955,974,974,0,2024-05-25 17:35:00,False,Non-reader
+moai06,1977,Codeforces Round 948 (Div. 2),10202,974,968,-6,2024-05-26 16:35:00,False,Non-reader
+moai06,1976,Educational Codeforces Round 166 (Rated for Div. 2),5095,968,1095,127,2024-05-30 16:35:00,False,Non-reader
+moai06,1981,Codeforces Round 949 (Div. 2),5598,1095,1117,22,2024-05-31 12:05:00,False,Non-reader
+moai06,1980,Codeforces Round 950 (Div. 3),8425,1117,1141,24,2024-06-03 16:50:00,False,Non-reader
+moai06,1979,Codeforces Round 951 (Div. 2),10782,1141,1122,-19,2024-06-06 16:35:00,False,Non-reader
+moai06,1984,Codeforces Global Round 26,8288,1122,1093,-29,2024-06-09 17:35:00,False,Non-reader
+moai06,1985,Codeforces Round 952 (Div. 4),6086,1093,1118,25,2024-06-11 17:05:00,False,Non-reader
+moai06,1978,Codeforces Round 953 (Div. 2),10355,1118,1049,-69,2024-06-16 11:05:00,False,Non-reader
+moai06,1986,Codeforces Round 954 (Div. 3),7414,1049,1099,50,2024-06-23 17:05:00,False,Non-reader
+moai06,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",7580,1099,1121,22,2024-06-25 16:35:00,False,Non-reader
+moai06,1989,Educational Codeforces Round 167 (Rated for Div. 2),9226,1121,1111,-10,2024-06-27 16:35:00,False,Non-reader
+moai06,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),8499,1111,1098,-13,2024-06-30 17:35:00,False,Non-reader
+moai06,1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,9573,1098,1091,-7,2024-07-07 16:50:00,False,Non-reader
+moai06,1992,Codeforces Round 957 (Div. 3),6273,1091,1145,54,2024-07-11 16:50:00,False,Non-reader
+moai06,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),7735,1145,1148,3,2024-07-18 16:35:00,False,Non-reader
+moai06,1990,Codeforces Round 960 (Div. 2),10142,1148,1106,-42,2024-07-20 16:35:00,False,Non-reader
+moai06,1995,Codeforces Round 961 (Div. 2),4912,1106,1176,70,2024-07-23 16:35:00,False,Non-reader
+moai06,1996,Codeforces Round 962 (Div. 3),8050,1176,1181,5,2024-07-26 17:05:00,False,Non-reader
+moai06,1991,Pinely Round 4 (Div. 1 + Div. 2),10789,1181,1123,-58,2024-07-28 17:35:00,False,Non-reader
+moai06,1997,Educational Codeforces Round 168 (Rated for Div. 2),10771,1123,1122,-1,2024-07-30 16:35:00,False,Non-reader
+moai06,1993,Codeforces Round 963 (Div. 2),7289,1122,1164,42,2024-08-04 16:35:00,False,Non-reader
+moai06,1999,Codeforces Round 964 (Div. 4),8380,1164,1165,1,2024-08-06 17:00:00,False,Non-reader
+moai06,1998,Codeforces Round 965 (Div. 2),10509,1165,1153,-12,2024-08-10 16:35:00,False,Non-reader
+moai06,2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),7112,1153,1169,16,2024-08-11 17:35:00,False,Non-reader
+moai06,2000,Codeforces Round 966 (Div. 3),4612,1169,1236,67,2024-08-13 16:55:00,False,Non-reader
+moai06,2003,Codeforces Round 968 (Div. 2),7174,1236,1242,6,2024-08-25 16:35:00,False,Non-reader
+moai06,2007,Codeforces Round 969 (Div. 2),9069,1242,1193,-49,2024-08-30 17:05:00,False,Non-reader
+moai06,2008,Codeforces Round 970 (Div. 3),9369,1193,1174,-19,2024-09-01 16:50:00,False,Non-reader
+moai06,2024,Codeforces Round 980 (Div. 2),10008,1174,1096,-78,2024-10-20 11:05:00,False,Non-reader
+moai06,2032,Codeforces Round 983 (Div. 2),4912,1096,1168,72,2024-11-01 16:35:00,False,Non-reader
+moai06,2028,Codeforces Round 986 (Div. 2),2849,1168,1233,65,2024-11-10 17:35:00,False,Non-reader
+moai06,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",4250,1233,1268,35,2024-11-30 17:35:00,False,Non-reader
+moai06,2042,Educational Codeforces Round 172 (Rated for Div. 2),5690,1268,1248,-20,2024-12-02 16:35:00,False,Non-reader
+moai06,2047,Codeforces Round 990 (Div. 2),1987,1248,1288,40,2024-12-03 08:25:00,False,Non-reader
+moai06,2040,Codeforces Round 992 (Div. 2),3273,1288,1330,42,2024-12-08 16:35:00,False,Non-reader
+moai06,2044,Codeforces Round 993 (Div. 4),733,1330,1419,89,2024-12-15 16:50:00,False,Non-reader
+moai06,2071,Codeforces Round 1007 (Div. 2),4117,1419,1423,4,2025-02-28 16:50:00,False,Non-reader
+moai06,2074,Codeforces Round 1009 (Div. 3),6735,1423,1374,-49,2025-03-11 17:05:00,False,Non-reader
+moai06,2085,Codeforces Round 1011 (Div. 2),2447,1374,1435,61,2025-03-22 16:35:00,False,Non-reader
+moai06,2090,Codeforces Round 1012 (Div. 2),1533,1435,1466,31,2025-03-23 08:05:00,False,Non-reader
+moai06,2093,Codeforces Round 1016 (Div. 3),3265,1466,1454,-12,2025-04-08 16:50:00,False,Non-reader
+moai06,2103,Codeforces Round 1019 (Div. 2),4363,1454,1432,-22,2025-04-21 16:35:00,False,Non-reader
+moai06,2106,Codeforces Round 1020 (Div. 3),604,1432,1520,88,2025-04-24 16:50:00,False,Non-reader
+moai06,2107,Codeforces Round 1023 (Div. 2),2884,1520,1505,-15,2025-05-05 16:50:00,False,Non-reader
+moai06,2109,Codeforces Round 1025 (Div. 2),14069,1505,1347,-158,2025-05-17 16:50:00,True,Non-reader
+moai06,2110,Codeforces Round 1026 (Div. 2),7875,1347,1310,-37,2025-05-24 16:35:00,False,Non-reader
+moai06,2114,Codeforces Round 1027 (Div. 3),16371,1310,1210,-100,2025-05-26 16:50:00,False,Non-reader
+moai06,2116,Codeforces Round 1028 (Div. 2),5731,1210,1243,33,2025-05-31 16:35:00,False,Non-reader
+moai06,2111,Educational Codeforces Round 179 (Rated for Div. 2),3300,1243,1301,58,2025-06-03 16:35:00,False,Non-reader
+moai06,2117,Codeforces Round 1029 (Div. 3),2466,1301,1353,52,2025-06-08 16:50:00,False,Non-reader
+moai06,2118,Codeforces Round 1030 (Div. 2),2600,1353,1423,70,2025-06-12 16:35:00,False,Non-reader
+moai06,2113,Codeforces Round 1031 (Div. 2),5806,1423,1353,-70,2025-06-15 11:05:00,False,Non-reader
+moai06,2121,Codeforces Round 1032 (Div. 3),1081,1353,1443,90,2025-06-17 16:50:00,False,Non-reader
+moai06,2120,Codeforces Round 1033 (Div. 2) and CodeNite 2025,7209,1443,1376,-67,2025-06-21 16:35:00,False,Non-reader
+moai06,2112,Educational Codeforces Round 180 (Rated for Div. 2),3580,1376,1403,27,2025-06-23 16:35:00,False,Non-reader
+moai06,2123,Codeforces Round 1034 (Div. 3),4454,1403,1391,-12,2025-07-01 16:50:00,False,Non-reader
+moai06,2119,Codeforces Round 1035 (Div. 2),3560,1391,1422,31,2025-07-05 16:35:00,False,Non-reader
+moai06,2124,"EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",3209,1422,1450,28,2025-07-06 17:35:00,False,Non-reader
+moai06,2126,Codeforces Round 1037 (Div. 3),3900,1450,1432,-18,2025-07-17 16:50:00,False,Non-reader
+moai06,2125,Educational Codeforces Round 181 (Rated for Div. 2),4109,1432,1440,8,2025-07-22 16:35:00,False,Non-reader
+moai06,2128,Codeforces Round 1039 (Div. 2),3147,1440,1464,24,2025-07-27 16:35:00,False,Non-reader
+moai06,2130,Codeforces Round 1040 (Div. 2),4827,1464,1439,-25,2025-07-31 17:35:00,False,Non-reader
+moai06,2127,"Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",2697,1439,1493,54,2025-08-07 17:35:00,False,Non-reader
+moai06,2131,Codeforces Round 1042 (Div. 3),3748,1493,1470,-23,2025-08-10 16:50:00,False,Non-reader
+moai06,2132,Codeforces Round 1043 (Div. 3),1518,1470,1511,41,2025-08-21 16:50:00,False,Non-reader
+moai06,2133,Codeforces Round 1044 (Div. 2),3892,1511,1505,-6,2025-08-24 16:35:00,False,Non-reader
+moai06,2134,Codeforces Round 1045 (Div. 2),3063,1505,1522,17,2025-08-26 16:35:00,False,Non-reader
+moai06,2137,Codeforces Round 1047 (Div. 3),1285,1522,1548,26,2025-09-07 16:50:00,False,Non-reader
+moai06,2140,Codeforces Round 1049 (Div. 2),1744,1548,1593,45,2025-09-09 16:35:00,False,Non-reader
+moai06,2144,Educational Codeforces Round 182 (Rated for Div. 2),6956,1593,1507,-86,2025-09-15 16:35:00,False,Non-reader
+moai06,2147,Codeforces Global Round 29 (Div. 1 + Div. 2),5967,1507,1454,-53,2025-09-20 17:35:00,False,Non-reader
+moai06,2146,Codeforces Round 1052 (Div. 2),4259,1454,1433,-21,2025-09-21 16:50:00,False,Non-reader
+moai06,2149,Codeforces Round 1054 (Div. 3),2152,1433,1451,18,2025-09-25 16:50:00,False,Non-reader
+moai06,2152,"Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",8173,1451,1374,-77,2025-10-03 17:35:00,False,Non-reader
+moai06,2155,Codeforces Round 1056 (Div. 2),4338,1374,1369,-5,2025-10-05 18:35:00,False,Non-reader
+moai06,2145,Educational Codeforces Round 183 (Rated for Div. 2),2632,1369,1428,59,2025-10-06 16:35:00,False,Non-reader
+moai06,2153,Codeforces Round 1057 (Div. 2),5453,1428,1407,-21,2025-10-10 16:50:00,False,Non-reader
+moai06,2160,Codeforces Round 1058 (Div. 2),1599,1407,1475,68,2025-10-12 17:05:00,False,Non-reader
+Shakuu,2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",7169,0,408,408,2024-11-23 17:35:00,True,Non-reader
+Shakuu,2042,Educational Codeforces Round 172 (Rated for Div. 2),9413,408,663,255,2024-12-02 16:35:00,True,Non-reader
+Shakuu,2051,Codeforces Round 995 (Div. 3),12320,663,852,189,2024-12-22 16:50:00,True,Non-reader
+Shakuu,2043,Educational Codeforces Round 173 (Rated for Div. 2),6918,852,1014,162,2024-12-24 16:35:00,False,Non-reader
+Shakuu,2053,Good Bye 2024: 2025 is NEAR,12930,1014,997,-17,2024-12-28 17:35:00,False,Non-reader
+Shakuu,2057,Hello 2025,7320,997,1101,104,2025-01-04 17:05:00,False,Non-reader
+Shakuu,2055,Codeforces Round 996 (Div. 2),11945,1101,1089,-12,2025-01-12 16:35:00,False,Non-reader
+Shakuu,2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",10724,1089,1017,-72,2025-01-20 17:35:00,False,Non-reader
+Shakuu,2063,Codeforces Round 1000 (Div. 2),6639,1017,1094,77,2025-01-22 14:05:00,False,Non-reader
+Shakuu,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",12481,1094,1042,-52,2025-01-26 17:05:00,False,Non-reader
+Shakuu,2059,Codeforces Round 1002 (Div. 2),11255,1042,1036,-6,2025-02-02 16:35:00,False,Non-reader
+Shakuu,2065,Codeforces Round 1003 (Div. 4),11988,1036,1030,-6,2025-02-09 16:50:00,False,Non-reader
+Shakuu,2067,Codeforces Round 1004 (Div. 2),10983,1030,1018,-12,2025-02-11 16:35:00,False,Non-reader
+Shakuu,2072,Codeforces Round 1006 (Div. 3),8702,1018,1060,42,2025-02-25 16:50:00,False,Non-reader
+Shakuu,2070,Educational Codeforces Round 175 (Rated for Div. 2),7349,1060,1097,37,2025-02-27 16:35:00,False,Non-reader
+Shakuu,2071,Codeforces Round 1007 (Div. 2),9098,1097,1094,-3,2025-02-28 16:50:00,False,Non-reader
+Shakuu,2078,Codeforces Round 1008 (Div. 2),5347,1094,1152,58,2025-03-10 17:15:00,False,Non-reader
+Shakuu,2074,Codeforces Round 1009 (Div. 3),7178,1152,1167,15,2025-03-11 17:05:00,False,Non-reader
+Shakuu,2075,Educational Codeforces Round 176 (Rated for Div. 2),5547,1167,1214,47,2025-03-17 16:35:00,False,Non-reader
+Shakuu,2085,Codeforces Round 1011 (Div. 2),6326,1214,1224,10,2025-03-22 16:35:00,False,Non-reader
+Shakuu,2090,Codeforces Round 1012 (Div. 2),3577,1224,1231,7,2025-03-23 08:05:00,False,Non-reader
+Shakuu,2091,Codeforces Round 1013 (Div. 3),5014,1231,1256,25,2025-03-25 16:50:00,False,Non-reader
+Shakuu,2092,Codeforces Round 1014 (Div. 2),4454,1256,1298,42,2025-03-29 16:35:00,False,Non-reader
+Shakuu,2086,Educational Codeforces Round 177 (Rated for Div. 2),3717,1298,1344,46,2025-04-03 16:35:00,False,Non-reader
+Shakuu,2094,Codeforces Round 1017 (Div. 4),551,1344,1449,105,2025-04-13 17:50:00,False,Non-reader
+Shakuu,2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",3453,1449,1476,27,2025-04-19 16:35:00,False,Non-reader
+Shakuu,2103,Codeforces Round 1019 (Div. 2),8154,1476,1385,-91,2025-04-21 16:35:00,False,Non-reader
+Shakuu,2106,Codeforces Round 1020 (Div. 3),3453,1385,1380,-5,2025-04-24 16:50:00,False,Non-reader
+Shakuu,2104,Educational Codeforces Round 178 (Rated for Div. 2),7146,1380,1305,-75,2025-04-28 16:35:00,False,Non-reader
+Shakuu,2107,Codeforces Round 1023 (Div. 2),2798,1305,1351,46,2025-05-05 16:50:00,False,Non-reader
+Shakuu,2102,Codeforces Round 1024 (Div. 2),3703,1351,1349,-2,2025-05-11 17:05:00,False,Non-reader
+Shakuu,2114,Codeforces Round 1027 (Div. 3),5480,1349,1336,-13,2025-05-26 16:50:00,False,Non-reader
+Shakuu,2116,Codeforces Round 1028 (Div. 2),4300,1336,1360,24,2025-05-31 16:35:00,False,Non-reader
+Shakuu,2111,Educational Codeforces Round 179 (Rated for Div. 2),2682,1360,1404,44,2025-06-03 16:35:00,False,Non-reader
+Shakuu,2117,Codeforces Round 1029 (Div. 3),5739,1404,1369,-35,2025-06-08 16:50:00,False,Non-reader
+Shakuu,2118,Codeforces Round 1030 (Div. 2),2973,1369,1423,54,2025-06-12 16:35:00,False,Non-reader
+Shakuu,2113,Codeforces Round 1031 (Div. 2),327,1423,1591,168,2025-06-15 11:05:00,False,Non-reader
+Shakuu,2121,Codeforces Round 1032 (Div. 3),556,1591,1646,55,2025-06-17 16:50:00,False,Non-reader
+Shakuu,2119,Codeforces Round 1035 (Div. 2),8873,1646,1534,-112,2025-07-05 16:35:00,False,Non-reader
+Shakuu,2126,Codeforces Round 1037 (Div. 3),3909,1534,1496,-38,2025-07-17 16:50:00,False,Non-reader
+Shakuu,2125,Educational Codeforces Round 181 (Rated for Div. 2),1308,1496,1576,80,2025-07-22 16:35:00,False,Non-reader
+Shakuu,2128,Codeforces Round 1039 (Div. 2),1986,1576,1600,24,2025-07-27 16:35:00,False,Non-reader
+Shakuu,2130,Codeforces Round 1040 (Div. 2),3416,1600,1570,-30,2025-07-31 17:35:00,False,Non-reader
+Shakuu,2131,Codeforces Round 1042 (Div. 3),1413,1570,1583,13,2025-08-10 16:50:00,False,Non-reader
+Shakuu,2132,Codeforces Round 1043 (Div. 3),210,1583,1694,111,2025-08-21 16:50:00,False,Non-reader
+Shakuu,2133,Codeforces Round 1044 (Div. 2),4771,1694,1628,-66,2025-08-24 16:35:00,False,Non-reader
+Shakuu,2134,Codeforces Round 1045 (Div. 2),5618,1628,1565,-63,2025-08-26 16:35:00,False,Non-reader
+Shakuu,2136,Codeforces Round 1046 (Div. 2),4105,1565,1526,-39,2025-08-28 17:35:00,False,Non-reader
+Shakuu,2137,Codeforces Round 1047 (Div. 3),1465,1526,1544,18,2025-09-07 16:50:00,False,Non-reader
+Shakuu,2140,Codeforces Round 1049 (Div. 2),1988,1544,1580,36,2025-09-09 16:35:00,False,Non-reader
+Shakuu,2146,Codeforces Round 1052 (Div. 2),1453,1580,1620,40,2025-09-21 16:50:00,False,Non-reader
+Shakuu,2151,Codeforces Round 1053 (Div. 2),2555,1620,1574,-46,2025-09-24 14:50:00,False,Non-reader
+Shakuu,2149,Codeforces Round 1054 (Div. 3),123,1574,1706,132,2025-09-25 16:50:00,False,Non-reader
+Shakuu,2152,"Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",3123,1706,1681,-25,2025-10-03 17:35:00,False,Non-reader
+Shakuu,2145,Educational Codeforces Round 183 (Rated for Div. 2),1482,1681,1698,17,2025-10-06 16:35:00,False,Non-reader
+Shakuu,2153,Codeforces Round 1057 (Div. 2),5257,1698,1617,-81,2025-10-10 16:50:00,False,Non-reader
+Bilolbek2011,1986,Codeforces Round 954 (Div. 3),15112,0,403,403,2024-06-23 17:05:00,True,Non-reader
+Bilolbek2011,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",13314,403,650,247,2024-06-25 16:35:00,True,Non-reader
+Bilolbek2011,1989,Educational Codeforces Round 167 (Rated for Div. 2),8179,650,888,238,2024-06-27 16:35:00,True,Non-reader
+Bilolbek2011,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),4622,888,1094,206,2024-06-30 17:35:00,True,Non-reader
+Bilolbek2011,1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,6598,1094,1200,106,2024-07-07 16:50:00,False,Non-reader
+Bilolbek2011,2000,Codeforces Round 966 (Div. 3),14983,1200,1189,-11,2024-08-13 16:55:00,False,Non-reader
+Bilolbek2011,2001,Codeforces Round 967 (Div. 2),12837,1189,1140,-49,2024-08-20 16:35:00,False,Non-reader
+Bilolbek2011,2025,Educational Codeforces Round 170 (Rated for Div. 2),15843,1140,1041,-99,2024-10-14 16:35:00,False,Non-reader
+Bilolbek2011,2033,Codeforces Round 981 (Div. 3),10526,1041,1042,1,2024-10-24 16:50:00,False,Non-reader
+Bilolbek2011,2069,Educational Codeforces Round 174 (Rated for Div. 2),5475,1042,1124,82,2025-02-18 16:35:00,False,Non-reader
+Bilolbek2011,2072,Codeforces Round 1006 (Div. 3),10429,1124,1115,-9,2025-02-25 16:50:00,False,Non-reader
+Bilolbek2011,2070,Educational Codeforces Round 175 (Rated for Div. 2),12294,1115,1059,-56,2025-02-27 16:35:00,False,Non-reader
+Bilolbek2011,2075,Educational Codeforces Round 176 (Rated for Div. 2),9998,1059,1054,-5,2025-03-17 16:35:00,False,Non-reader
+Bilolbek2011,2093,Codeforces Round 1016 (Div. 3),5179,1054,1129,75,2025-04-08 16:50:00,False,Non-reader
+Bilolbek2011,2094,Codeforces Round 1017 (Div. 4),8476,1129,1119,-10,2025-04-13 17:50:00,False,Non-reader
+Bilolbek2011,2103,Codeforces Round 1019 (Div. 2),4269,1119,1193,74,2025-04-21 16:35:00,False,Non-reader
+Bilolbek2011,2106,Codeforces Round 1020 (Div. 3),4073,1193,1229,36,2025-04-24 16:50:00,False,Non-reader
+Bilolbek2011,2104,Educational Codeforces Round 178 (Rated for Div. 2),4954,1229,1235,6,2025-04-28 16:35:00,False,Non-reader
+Bilolbek2011,2107,Codeforces Round 1023 (Div. 2),6171,1235,1209,-26,2025-05-05 16:50:00,False,Non-reader
+Bilolbek2011,2111,Educational Codeforces Round 179 (Rated for Div. 2),4417,1209,1247,38,2025-06-03 16:35:00,False,Non-reader
+Bilolbek2011,2126,Codeforces Round 1037 (Div. 3),776,1247,1388,141,2025-07-17 16:50:00,False,Non-reader
+Bilolbek2011,2128,Codeforces Round 1039 (Div. 2),2159,1388,1459,71,2025-07-27 16:35:00,False,Non-reader
+Bilolbek2011,2131,Codeforces Round 1042 (Div. 3),2915,1459,1460,1,2025-08-10 16:50:00,False,Non-reader
+Bilolbek2011,2137,Codeforces Round 1047 (Div. 3),8576,1460,1384,-76,2025-09-07 16:50:00,False,Non-reader
+Bilolbek2011,2140,Codeforces Round 1049 (Div. 2),7170,1384,1341,-43,2025-09-09 16:35:00,False,Non-reader
+Bilolbek2011,2148,Codeforces Round 1050 (Div. 4),910,1341,1413,72,2025-09-13 16:50:00,False,Non-reader
+Bilolbek2011,2143,Codeforces Round 1051 (Div. 2),3846,1413,1426,13,2025-09-17 16:35:00,False,Non-reader
+Bilolbek2011,2146,Codeforces Round 1052 (Div. 2),4057,1426,1416,-10,2025-09-21 16:50:00,False,Non-reader
+Bilolbek2011,2149,Codeforces Round 1054 (Div. 3),3585,1416,1405,-11,2025-09-25 16:50:00,False,Non-reader
+Bilolbek2011,2145,Educational Codeforces Round 183 (Rated for Div. 2),7814,1405,1352,-53,2025-10-06 16:35:00,False,Non-reader
+atik_uwu,2040,Codeforces Round 992 (Div. 2),11554,0,379,379,2024-12-08 16:35:00,True,Non-reader
+atik_uwu,2048,Codeforces Global Round 28,10254,379,657,278,2024-12-19 17:35:00,True,Non-reader
+atik_uwu,2051,Codeforces Round 995 (Div. 3),6621,657,909,252,2024-12-22 16:50:00,True,Non-reader
+atik_uwu,2053,Good Bye 2024: 2025 is NEAR,12221,909,976,67,2024-12-28 17:35:00,False,Non-reader
+atik_uwu,2057,Hello 2025,11666,976,1027,51,2025-01-04 17:05:00,False,Non-reader
+atik_uwu,2055,Codeforces Round 996 (Div. 2),12099,1027,1069,42,2025-01-12 16:35:00,False,Non-reader
+atik_uwu,2056,Codeforces Round 997 (Div. 2),16590,1069,985,-84,2025-01-17 16:35:00,False,Non-reader
+atik_uwu,2060,Codeforces Round 998 (Div. 3),7365,985,1058,73,2025-01-19 17:05:00,False,Non-reader
+atik_uwu,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",12751,1058,1009,-49,2025-01-26 17:05:00,False,Non-reader
+atik_uwu,2059,Codeforces Round 1002 (Div. 2),10209,1009,1024,15,2025-02-02 16:35:00,False,Non-reader
+atik_uwu,2065,Codeforces Round 1003 (Div. 4),1235,1024,1198,174,2025-02-09 16:50:00,False,Non-reader
+atik_uwu,2064,Codeforces Round 1005 (Div. 2),2571,1198,1311,113,2025-02-16 16:35:00,False,Non-reader
+atik_uwu,2069,Educational Codeforces Round 174 (Rated for Div. 2),2611,1311,1382,71,2025-02-18 16:35:00,False,Non-reader
+atik_uwu,2072,Codeforces Round 1006 (Div. 3),2887,1382,1404,22,2025-02-25 16:50:00,False,Non-reader
+atik_uwu,2070,Educational Codeforces Round 175 (Rated for Div. 2),3237,1404,1429,25,2025-02-27 16:35:00,False,Non-reader
+atik_uwu,2071,Codeforces Round 1007 (Div. 2),4952,1429,1414,-15,2025-02-28 16:50:00,False,Non-reader
+atik_uwu,2078,Codeforces Round 1008 (Div. 2),2988,1414,1436,22,2025-03-10 17:15:00,False,Non-reader
+atik_uwu,2074,Codeforces Round 1009 (Div. 3),2137,1436,1459,23,2025-03-11 17:05:00,False,Non-reader
+atik_uwu,2085,Codeforces Round 1011 (Div. 2),1543,1459,1534,75,2025-03-22 16:35:00,False,Non-reader
+atik_uwu,2103,Codeforces Round 1019 (Div. 2),3516,1534,1510,-24,2025-04-21 16:35:00,False,Non-reader
+atik_uwu,2106,Codeforces Round 1020 (Div. 3),2848,1510,1486,-24,2025-04-24 16:50:00,False,Non-reader
+atik_uwu,2104,Educational Codeforces Round 178 (Rated for Div. 2),4375,1486,1442,-44,2025-04-28 16:35:00,False,Non-reader
+atik_uwu,2107,Codeforces Round 1023 (Div. 2),4798,1442,1397,-45,2025-05-05 16:50:00,False,Non-reader
+atik_uwu,2110,Codeforces Round 1026 (Div. 2),3205,1397,1432,35,2025-05-24 16:35:00,False,Non-reader
+atik_uwu,2114,Codeforces Round 1027 (Div. 3),2135,1432,1458,26,2025-05-26 16:50:00,False,Non-reader
+atik_uwu,2116,Codeforces Round 1028 (Div. 2),3443,1458,1467,9,2025-05-31 16:35:00,False,Non-reader
+atik_uwu,2117,Codeforces Round 1029 (Div. 3),565,1467,1555,88,2025-06-08 16:50:00,False,Non-reader
+atik_uwu,2118,Codeforces Round 1030 (Div. 2),2708,1555,1566,11,2025-06-12 16:35:00,False,Non-reader
+atik_uwu,2113,Codeforces Round 1031 (Div. 2),731,1566,1636,70,2025-06-15 11:05:00,False,Non-reader
+atik_uwu,2112,Educational Codeforces Round 180 (Rated for Div. 2),16465,1636,1466,-170,2025-06-23 16:35:00,True,Non-reader
+atik_uwu,2123,Codeforces Round 1034 (Div. 3),1377,1466,1510,44,2025-07-01 16:50:00,False,Non-reader
+atik_uwu,2122,"Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",2336,1510,1571,61,2025-07-19 16:50:00,False,Non-reader
+atik_uwu,2125,Educational Codeforces Round 181 (Rated for Div. 2),5346,1571,1521,-50,2025-07-22 16:35:00,False,Non-reader
+atik_uwu,2128,Codeforces Round 1039 (Div. 2),2618,1521,1538,17,2025-07-27 16:35:00,False,Non-reader
+atik_uwu,2130,Codeforces Round 1040 (Div. 2),3582,1538,1519,-19,2025-07-31 17:35:00,False,Non-reader
+atik_uwu,2127,"Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",4229,1519,1504,-15,2025-08-07 17:35:00,False,Non-reader
+atik_uwu,2131,Codeforces Round 1042 (Div. 3),1909,1504,1517,13,2025-08-10 16:50:00,False,Non-reader
+atik_uwu,2133,Codeforces Round 1044 (Div. 2),8489,1517,1441,-76,2025-08-24 16:35:00,False,Non-reader
+atik_uwu,2134,Codeforces Round 1045 (Div. 2),5983,1441,1416,-25,2025-08-26 16:35:00,False,Non-reader
+atik_uwu,2136,Codeforces Round 1046 (Div. 2),673,1416,1549,133,2025-08-28 17:35:00,False,Non-reader
+atik_uwu,2140,Codeforces Round 1049 (Div. 2),1434,1549,1609,60,2025-09-09 16:35:00,False,Non-reader
+atik_uwu,2152,"Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",3580,1609,1594,-15,2025-10-03 17:35:00,False,Non-reader
+BehruzbekSuyunov,1917,Codeforces Round 917 (Div. 2),9560,0,400,400,2023-12-24 16:35:00,True,Reader
+BehruzbekSuyunov,1915,Codeforces Round 918 (Div. 4),4598,400,743,343,2023-12-28 17:05:00,True,Reader
+BehruzbekSuyunov,1919,Hello 2024,5589,743,1032,289,2024-01-06 17:05:00,True,Reader
+BehruzbekSuyunov,1920,Codeforces Round 919 (Div. 2),8221,1032,1139,107,2024-01-13 16:35:00,False,Reader
+BehruzbekSuyunov,1921,Codeforces Round 920 (Div. 3),12870,1139,1168,29,2024-01-15 16:50:00,False,Reader
+BehruzbekSuyunov,1918,Codeforces Round 922 (Div. 2),13543,1168,1148,-20,2024-01-30 16:45:00,False,Reader
+BehruzbekSuyunov,1927,Codeforces Round 923 (Div. 3),16632,1148,1089,-59,2024-02-06 17:00:00,False,Reader
+BehruzbekSuyunov,1928,Codeforces Round 924 (Div. 2),11583,1089,976,-113,2024-02-11 11:35:00,False,Reader
+BehruzbekSuyunov,1931,Codeforces Round 925 (Div. 3),6556,976,1063,87,2024-02-13 16:50:00,False,Reader
+BehruzbekSuyunov,1929,Codeforces Round 926 (Div. 2),11730,1063,1040,-23,2024-02-15 16:35:00,False,Reader
+BehruzbekSuyunov,1930,think-cell Round 1,3485,1040,1160,120,2024-02-17 17:35:00,False,Reader
+BehruzbekSuyunov,1932,Codeforces Round 927 (Div. 3),4385,1160,1195,35,2024-02-18 14:20:00,False,Reader
+BehruzbekSuyunov,1926,Codeforces Round 928 (Div. 4),9593,1195,1165,-30,2024-02-19 16:50:00,False,Reader
+BehruzbekSuyunov,1933,Codeforces Round 929 (Div. 3),3144,1165,1247,82,2024-02-27 16:50:00,False,Reader
+BehruzbekSuyunov,1948,Educational Codeforces Round 163 (Rated for Div. 2),4703,1247,1292,45,2024-03-15 16:35:00,False,Reader
+BehruzbekSuyunov,1946,Codeforces Round 936 (Div. 2),5410,1292,1296,4,2024-03-22 16:35:00,False,Reader
+BehruzbekSuyunov,1950,Codeforces Round 937 (Div. 4),1335,1296,1372,76,2024-03-28 17:00:00,False,Reader
+BehruzbekSuyunov,1951,Codeforces Global Round 25,6930,1372,1324,-48,2024-04-06 17:35:00,False,Reader
+BehruzbekSuyunov,1955,Codeforces Round 938 (Div. 3),2208,1324,1382,58,2024-04-08 16:50:00,False,Reader
+BehruzbekSuyunov,1954,Educational Codeforces Round 164 (Rated for Div. 2),6226,1382,1355,-27,2024-04-12 16:35:00,False,Reader
+BehruzbekSuyunov,1956,Codeforces Round 939 (Div. 2),12080,1355,1217,-138,2024-04-13 16:35:00,False,Reader
+BehruzbekSuyunov,1968,Codeforces Round 943 (Div. 3),1202,1217,1335,118,2024-05-02 17:00:00,False,Reader
+BehruzbekSuyunov,1974,Codeforces Round 946 (Div. 3),6897,1335,1293,-42,2024-05-20 16:50:00,False,Reader
+BehruzbekSuyunov,1975,Codeforces Round 947 (Div. 1 + Div. 2),3177,1293,1355,62,2024-05-25 17:35:00,False,Reader
+BehruzbekSuyunov,1977,Codeforces Round 948 (Div. 2),9840,1355,1269,-86,2024-05-26 16:35:00,False,Reader
+BehruzbekSuyunov,1976,Educational Codeforces Round 166 (Rated for Div. 2),1616,1269,1401,132,2024-05-30 16:35:00,False,Reader
+BehruzbekSuyunov,1981,Codeforces Round 949 (Div. 2),6853,1401,1323,-78,2024-05-31 12:05:00,False,Reader
+BehruzbekSuyunov,1984,Codeforces Global Round 26,7172,1323,1271,-52,2024-06-09 17:35:00,False,Reader
+BehruzbekSuyunov,1985,Codeforces Round 952 (Div. 4),1256,1271,1345,74,2024-06-11 17:05:00,False,Reader
+BehruzbekSuyunov,1978,Codeforces Round 953 (Div. 2),1074,1345,1465,120,2024-06-16 11:05:00,False,Reader
+BehruzbekSuyunov,1986,Codeforces Round 954 (Div. 3),1896,1465,1493,28,2024-06-23 17:05:00,False,Reader
+BehruzbekSuyunov,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",2944,1493,1504,11,2024-06-25 16:35:00,False,Reader
+BehruzbekSuyunov,1989,Educational Codeforces Round 167 (Rated for Div. 2),9226,1504,1410,-94,2024-06-27 16:35:00,False,Reader
+BehruzbekSuyunov,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),2784,1410,1462,52,2024-06-30 17:35:00,False,Reader
+BehruzbekSuyunov,1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,6143,1462,1421,-41,2024-07-07 16:50:00,False,Reader
+BehruzbekSuyunov,1992,Codeforces Round 957 (Div. 3),8867,1421,1359,-62,2024-07-11 16:50:00,False,Reader
+BehruzbekSuyunov,1988,Codeforces Round 958 (Div. 2),13713,1359,1219,-140,2024-07-15 16:35:00,False,Reader
+BehruzbekSuyunov,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),5849,1219,1243,24,2024-07-18 16:35:00,False,Reader
+BehruzbekSuyunov,1990,Codeforces Round 960 (Div. 2),2118,1243,1359,116,2024-07-20 16:35:00,False,Reader
+BehruzbekSuyunov,1996,Codeforces Round 962 (Div. 3),1110,1359,1449,90,2024-07-26 17:05:00,False,Reader
+BehruzbekSuyunov,1997,Educational Codeforces Round 168 (Rated for Div. 2),11306,1449,1369,-80,2024-07-30 16:35:00,False,Reader
+BehruzbekSuyunov,1999,Codeforces Round 964 (Div. 4),1240,1369,1435,66,2024-08-06 17:00:00,False,Reader
+BehruzbekSuyunov,1998,Codeforces Round 965 (Div. 2),12194,1435,1345,-90,2024-08-10 16:35:00,False,Reader
+BehruzbekSuyunov,2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),12188,1345,1210,-135,2024-08-11 17:35:00,False,Reader
+BehruzbekSuyunov,2001,Codeforces Round 967 (Div. 2),16382,1210,1121,-89,2024-08-20 16:35:00,False,Reader
+BehruzbekSuyunov,2007,Codeforces Round 969 (Div. 2),5677,1121,1163,42,2024-08-30 17:05:00,False,Reader
+BehruzbekSuyunov,2008,Codeforces Round 970 (Div. 3),1215,1163,1311,148,2024-09-01 16:50:00,False,Reader
+BehruzbekSuyunov,2013,Codeforces Round 973 (Div. 2),5907,1311,1307,-4,2024-09-20 16:35:00,False,Reader
+BehruzbekSuyunov,2019,Codeforces Round 975 (Div. 2),7585,1307,1258,-49,2024-09-27 16:05:00,False,Reader
+BehruzbekSuyunov,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,2529,1258,1353,95,2024-09-29 17:35:00,False,Reader
+BehruzbekSuyunov,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",9575,1353,1225,-128,2024-10-06 08:05:00,False,Reader
+BehruzbekSuyunov,2022,Codeforces Round 978 (Div. 2),3504,1225,1210,-15,2024-10-13 21:35:00,False,Reader
+BehruzbekSuyunov,2025,Educational Codeforces Round 170 (Rated for Div. 2),3541,1210,1291,81,2024-10-14 16:35:00,False,Reader
+BehruzbekSuyunov,2030,Codeforces Round 979 (Div. 2),5509,1291,1295,4,2024-10-19 16:20:00,False,Reader
+BehruzbekSuyunov,2035,Codeforces Global Round 27,3259,1295,1351,56,2024-10-27 17:35:00,False,Reader
+BehruzbekSuyunov,2026,Educational Codeforces Round 171 (Rated for Div. 2),3609,1351,1381,30,2024-10-28 16:35:00,False,Reader
+BehruzbekSuyunov,2036,Codeforces Round 984 (Div. 3),5283,1381,1348,-33,2024-11-02 16:50:00,False,Reader
+BehruzbekSuyunov,2029,Refact.ai Match 1 (Codeforces Round 985),2105,1348,1424,76,2024-11-09 17:35:00,False,Reader
+BehruzbekSuyunov,2037,Codeforces Round 988 (Div. 3),202,1424,1564,140,2024-11-17 16:50:00,False,Reader
+BehruzbekSuyunov,2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",2368,1564,1582,18,2024-11-23 17:35:00,False,Reader
+BehruzbekSuyunov,2042,Educational Codeforces Round 172 (Rated for Div. 2),4858,1582,1506,-76,2024-12-02 16:35:00,False,Reader
+BehruzbekSuyunov,2047,Codeforces Round 990 (Div. 2),5390,1506,1376,-130,2024-12-03 08:25:00,False,Reader
+BehruzbekSuyunov,2059,Codeforces Round 1002 (Div. 2),9176,1376,1317,-59,2025-02-02 16:35:00,False,Reader
+BehruzbekSuyunov,2065,Codeforces Round 1003 (Div. 4),1972,1317,1363,46,2025-02-09 16:50:00,False,Reader
+BehruzbekSuyunov,2067,Codeforces Round 1004 (Div. 2),7114,1363,1326,-37,2025-02-11 16:35:00,False,Reader
+BehruzbekSuyunov,2069,Educational Codeforces Round 174 (Rated for Div. 2),4902,1326,1334,8,2025-02-18 16:35:00,False,Reader
+BehruzbekSuyunov,2070,Educational Codeforces Round 175 (Rated for Div. 2),2461,1334,1402,68,2025-02-27 16:35:00,False,Reader
+BehruzbekSuyunov,2071,Codeforces Round 1007 (Div. 2),1504,1402,1495,93,2025-02-28 16:50:00,False,Reader
+BehruzbekSuyunov,2078,Codeforces Round 1008 (Div. 2),7305,1495,1420,-75,2025-03-10 17:15:00,False,Reader
+BehruzbekSuyunov,2074,Codeforces Round 1009 (Div. 3),3815,1420,1411,-9,2025-03-11 17:05:00,False,Reader
+BehruzbekSuyunov,2075,Educational Codeforces Round 176 (Rated for Div. 2),1076,1411,1531,120,2025-03-17 16:35:00,False,Reader
+BehruzbekSuyunov,2091,Codeforces Round 1013 (Div. 3),1995,1531,1534,3,2025-03-25 16:50:00,False,Reader
+BehruzbekSuyunov,2092,Codeforces Round 1014 (Div. 2),8812,1534,1436,-98,2025-03-29 16:35:00,False,Reader
+BehruzbekSuyunov,2131,Codeforces Round 1042 (Div. 3),2968,1436,1442,6,2025-08-10 16:50:00,False,Reader
+BehruzbekSuyunov,2152,"Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",2388,1442,1513,71,2025-10-03 17:35:00,False,Reader
+BehruzbekSuyunov,2145,Educational Codeforces Round 183 (Rated for Div. 2),3701,1513,1504,-9,2025-10-06 16:35:00,False,Reader
+BehruzbekSuyunov,2153,Codeforces Round 1057 (Div. 2),13791,1504,1373,-131,2025-10-10 16:50:00,False,Reader
+Nurex_001,1805,Codeforces Round 862 (Div. 2),8038,0,408,408,2023-04-02 16:35:00,True,Non-reader
+Nurex_001,1823,Codeforces Round 868 (Div. 2),4807,408,699,291,2023-04-27 16:35:00,True,Non-reader
+Nurex_001,1818,Codeforces Round 869 (Div. 2),2767,699,963,264,2023-04-29 16:50:00,True,Non-reader
+Nurex_001,1829,Codeforces Round 871 (Div. 4),3103,963,1118,155,2023-05-06 16:50:00,False,Non-reader
+Nurex_001,1832,Educational Codeforces Round 148 (Rated for Div. 2),6646,1118,1176,58,2023-05-12 16:35:00,False,Non-reader
+Nurex_001,1828,Codeforces Round 873 (Div. 2),7504,1176,1158,-18,2023-05-14 16:35:00,False,Non-reader
+Nurex_001,1833,Codeforces Round 874 (Div. 3),5986,1158,1143,-15,2023-05-19 16:50:00,False,Non-reader
+Nurex_001,1831,Codeforces Round 875 (Div. 2),5637,1143,1158,15,2023-05-28 17:05:00,False,Non-reader
+Nurex_001,1840,Codeforces Round 878 (Div. 3),1494,1158,1275,117,2023-06-06 16:50:00,False,Non-reader
+Nurex_001,1841,Educational Codeforces Round 150 (Rated for Div. 2),1683,1275,1373,98,2023-06-12 16:35:00,False,Non-reader
+Nurex_001,1834,Codeforces Round 879 (Div. 2),8345,1373,1261,-112,2023-06-18 10:05:00,False,Non-reader
+Nurex_001,1836,Codeforces Round 880 (Div. 2),2229,1261,1328,67,2023-06-18 16:35:00,False,Non-reader
+Nurex_001,1843,Codeforces Round 881 (Div. 3),6305,1328,1284,-44,2023-06-20 16:50:00,False,Non-reader
+Nurex_001,1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",6647,1284,1236,-48,2023-06-24 17:05:00,False,Non-reader
+Nurex_001,1845,Educational Codeforces Round 151 (Rated for Div. 2),5749,1236,1236,0,2023-06-29 16:35:00,False,Non-reader
+Nurex_001,1844,Codeforces Round 884 (Div. 1 + Div. 2),11762,1236,1151,-85,2023-07-11 17:35:00,False,Non-reader
+Nurex_001,1848,Codeforces Round 885 (Div. 2),1695,1151,1290,139,2023-07-16 16:35:00,False,Non-reader
+Nurex_001,1850,Codeforces Round 886 (Div. 4),2828,1290,1310,20,2023-07-21 16:35:00,False,Non-reader
+Nurex_001,1853,Codeforces Round 887 (Div. 2),4469,1310,1313,3,2023-07-23 17:05:00,False,Non-reader
+Nurex_001,1851,Codeforces Round 888 (Div. 3),2120,1313,1365,52,2023-07-25 16:50:00,False,Non-reader
+Nurex_001,1849,Educational Codeforces Round 152 (Rated for Div. 2),3294,1365,1394,29,2023-07-27 16:35:00,False,Non-reader
+Nurex_001,1855,Codeforces Round 889 (Div. 2),3148,1394,1417,23,2023-07-29 17:05:00,False,Non-reader
+Nurex_001,1856,Codeforces Round 890 (Div. 2) supported by Constructor Institute,2024,1417,1477,60,2023-08-05 16:35:00,False,Non-reader
+Nurex_001,1857,Codeforces Round 891 (Div. 3),9416,1477,1393,-84,2023-08-07 16:50:00,False,Non-reader
+Nurex_001,1858,Codeforces Round 893 (Div. 2),9342,1393,1328,-65,2023-08-15 16:35:00,False,Non-reader
+Nurex_001,1872,Codeforces Round 895 (Div. 3),4007,1328,1331,3,2023-09-07 16:50:00,False,Non-reader
+Nurex_001,1869,Codeforces Round 896 (Div. 2),6509,1331,1264,-67,2023-09-10 16:35:00,False,Non-reader
+Nurex_001,1867,Codeforces Round 897 (Div. 2),2840,1264,1331,67,2023-09-11 16:35:00,False,Non-reader
+Nurex_001,1873,Codeforces Round 898 (Div. 4),1344,1331,1384,53,2023-09-21 17:05:00,False,Non-reader
+Nurex_001,1878,Codeforces Round 900 (Div. 3),1467,1384,1441,57,2023-09-26 16:50:00,False,Non-reader
+Nurex_001,1875,Codeforces Round 901 (Div. 2),1848,1441,1489,48,2023-09-30 17:35:00,False,Non-reader
+Nurex_001,1881,Codeforces Round 903 (Div. 3),1883,1489,1493,4,2023-10-12 16:50:00,False,Non-reader
+Nurex_001,1890,Codeforces Round 906 (Div. 2),1787,1493,1512,19,2023-10-28 17:05:00,False,Non-reader
+Nurex_001,1895,Educational Codeforces Round 157 (Rated for Div. 2),1870,1512,1538,26,2023-11-03 16:35:00,False,Non-reader
+Nurex_001,1894,Codeforces Round 908 (Div. 2),8494,1538,1380,-158,2023-11-07 16:35:00,True,Non-reader
+Nurex_001,1898,Codeforces Round 910 (Div. 2),3214,1380,1357,-23,2023-11-19 16:35:00,False,Non-reader
+Nurex_001,1901,Educational Codeforces Round 158 (Rated for Div. 2),1350,1357,1452,95,2023-11-24 16:35:00,False,Non-reader
+Nurex_001,1907,Codeforces Round 913 (Div. 3),465,1452,1541,89,2023-12-05 17:00:00,False,Non-reader
+Nurex_001,1904,Codeforces Round 914 (Div. 2),1419,1541,1561,20,2023-12-09 18:05:00,False,Non-reader
+Nurex_001,1905,Codeforces Round 915 (Div. 2),8914,1561,1429,-132,2023-12-16 16:35:00,False,Non-reader
+Nurex_001,1913,Educational Codeforces Round 160 (Rated for Div. 2),252,1429,1624,195,2023-12-18 16:35:00,True,Non-reader
+Nurex_001,1925,Codeforces Round 921 (Div. 2),3270,1624,1578,-46,2024-01-27 16:45:00,False,Non-reader
+Nurex_001,1918,Codeforces Round 922 (Div. 2),990,1578,1650,72,2024-01-30 16:45:00,False,Non-reader
+Nurex_001,1928,Codeforces Round 924 (Div. 2),1481,1650,1655,5,2024-02-11 11:35:00,False,Non-reader
+Nurex_001,1929,Codeforces Round 926 (Div. 2),6416,1655,1564,-91,2024-02-15 16:35:00,False,Non-reader
+Nurex_001,1932,Codeforces Round 927 (Div. 3),180,1564,1672,108,2024-02-18 14:20:00,False,Non-reader
+Nurex_001,1923,Educational Codeforces Round 162 (Rated for Div. 2),925,1672,1719,47,2024-02-23 16:35:00,False,Non-reader
+Nurex_001,1935,Codeforces Round 932 (Div. 2),1565,1719,1729,10,2024-03-05 16:35:00,False,Non-reader
+Nurex_001,1948,Educational Codeforces Round 163 (Rated for Div. 2),979,1729,1764,35,2024-03-15 16:35:00,False,Non-reader
+Nurex_001,1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",2764,1764,1726,-38,2024-03-30 17:35:00,False,Non-reader
+Nurex_001,1966,Codeforces Round 941 (Div. 2),1613,1726,1694,-32,2024-04-27 16:35:00,False,Non-reader
+Nurex_001,1990,Codeforces Round 960 (Div. 2),8183,1694,1569,-125,2024-07-20 16:35:00,False,Non-reader
+Nurex_001,1995,Codeforces Round 961 (Div. 2),5065,1569,1512,-57,2024-07-23 16:35:00,False,Non-reader
+Nurex_001,1996,Codeforces Round 962 (Div. 3),939,1512,1566,54,2024-07-26 17:05:00,False,Non-reader
+Nurex_001,1991,Pinely Round 4 (Div. 1 + Div. 2),10846,1566,1429,-137,2024-07-28 17:35:00,False,Non-reader
+Nurex_001,1997,Educational Codeforces Round 168 (Rated for Div. 2),2328,1429,1498,69,2024-07-30 16:35:00,False,Non-reader
+Nurex_001,1998,Codeforces Round 965 (Div. 2),2590,1498,1533,35,2024-08-10 16:35:00,False,Non-reader
+Nurex_001,2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),2938,1533,1559,26,2024-08-11 17:35:00,False,Non-reader
+Nurex_001,2007,Codeforces Round 969 (Div. 2),6036,1559,1484,-75,2024-08-30 17:05:00,False,Non-reader
+Nurex_001,2005,Codeforces Round 972 (Div. 2),6215,1484,1434,-50,2024-09-14 16:35:00,False,Non-reader
+Nurex_001,2014,Codeforces Round 974 (Div. 3),1473,1434,1479,45,2024-09-21 17:00:00,False,Non-reader
+Nurex_001,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,1571,1479,1549,70,2024-09-29 17:35:00,False,Non-reader
+Nurex_001,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",1391,1549,1598,49,2024-10-06 08:05:00,False,Non-reader
+Nurex_001,2022,Codeforces Round 978 (Div. 2),1227,1598,1597,-1,2024-10-13 21:35:00,False,Non-reader
+Nurex_001,2025,Educational Codeforces Round 170 (Rated for Div. 2),1012,1597,1666,69,2024-10-14 16:35:00,False,Non-reader
+Nurex_001,2030,Codeforces Round 979 (Div. 2),6064,1666,1572,-94,2024-10-19 16:20:00,False,Non-reader
+Nurex_001,2033,Codeforces Round 981 (Div. 3),605,1572,1625,53,2024-10-24 16:50:00,False,Non-reader
+Nurex_001,2027,Codeforces Round 982 (Div. 2),1769,1625,1626,1,2024-10-26 16:35:00,False,Non-reader
+Nurex_001,2029,Refact.ai Match 1 (Codeforces Round 985),5957,1626,1477,-149,2024-11-09 17:35:00,False,Non-reader
+Nurex_001,2031,Codeforces Round 987 (Div. 2),1833,1477,1520,43,2024-11-15 14:35:00,False,Non-reader
+Nurex_001,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",1015,1520,1646,126,2024-11-30 17:35:00,False,Non-reader
+Nurex_001,2047,Codeforces Round 990 (Div. 2),1572,1646,1603,-43,2024-12-03 08:25:00,False,Non-reader
+Nurex_001,2043,Educational Codeforces Round 173 (Rated for Div. 2),1970,1603,1612,9,2024-12-24 16:35:00,False,Non-reader
+Nurex_001,2053,Good Bye 2024: 2025 is NEAR,6698,1612,1531,-81,2024-12-28 17:35:00,False,Non-reader
+Nurex_001,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",2213,1531,1594,63,2025-01-26 17:05:00,False,Non-reader
+Nurex_001,2059,Codeforces Round 1002 (Div. 2),4006,1594,1564,-30,2025-02-02 16:35:00,False,Non-reader
+Nurex_001,2067,Codeforces Round 1004 (Div. 2),3746,1564,1534,-30,2025-02-11 16:35:00,False,Non-reader
+Nurex_001,2064,Codeforces Round 1005 (Div. 2),1532,1534,1589,55,2025-02-16 16:35:00,False,Non-reader
+Nurex_001,2069,Educational Codeforces Round 174 (Rated for Div. 2),4023,1589,1550,-39,2025-02-18 16:35:00,False,Non-reader
+Nurex_001,2072,Codeforces Round 1006 (Div. 3),2220,1550,1543,-7,2025-02-25 16:50:00,False,Non-reader
+Nurex_001,2078,Codeforces Round 1008 (Div. 2),1649,1543,1576,33,2025-03-10 17:15:00,False,Non-reader
+Nurex_001,2075,Educational Codeforces Round 176 (Rated for Div. 2),3703,1576,1554,-22,2025-03-17 16:35:00,False,Non-reader
+Nurex_001,2090,Codeforces Round 1012 (Div. 2),907,1554,1591,37,2025-03-23 08:05:00,False,Non-reader
+Nurex_001,2092,Codeforces Round 1014 (Div. 2),2634,1591,1593,2,2025-03-29 16:35:00,False,Non-reader
+Nurex_001,2151,Codeforces Round 1053 (Div. 2),3502,1593,1526,-67,2025-09-24 14:50:00,False,Non-reader
+Nurex_001,2149,Codeforces Round 1054 (Div. 3),1098,1526,1557,31,2025-09-25 16:50:00,False,Non-reader
+Nurex_001,2155,Codeforces Round 1056 (Div. 2),4028,1557,1515,-42,2025-10-05 18:35:00,False,Non-reader
+Nurex_001,2153,Codeforces Round 1057 (Div. 2),6226,1515,1460,-55,2025-10-10 16:50:00,False,Non-reader
+Nurex_001,2160,Codeforces Round 1058 (Div. 2),3337,1460,1455,-5,2025-10-12 17:05:00,False,Non-reader
+MDSPro,1605,Codeforces Round 754 (Div. 2),7254,0,414,414,2021-11-12 16:35:00,True,Reader
+MDSPro,1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",4979,414,709,295,2021-11-28 17:05:00,True,Reader
+MDSPro,1618,Codeforces Round 760 (Div. 3),6401,709,911,202,2021-12-14 16:50:00,True,Reader
+MDSPro,1617,Codeforces Round 761 (Div. 2),2072,911,1149,238,2021-12-16 15:35:00,True,Reader
+MDSPro,1619,Codeforces Round 762 (Div. 3),791,1149,1347,198,2021-12-20 16:50:00,True,Reader
+MDSPro,1615,Codeforces Global Round 18,2401,1347,1456,109,2021-12-24 17:05:00,False,Reader
+MDSPro,1622,Educational Codeforces Round 120 (Rated for Div. 2),2484,1456,1475,19,2021-12-27 16:35:00,False,Reader
+MDSPro,1623,Codeforces Round 763 (Div. 2),3854,1475,1431,-44,2021-12-28 15:35:00,False,Reader
+MDSPro,1616,Good Bye 2021: 2022 is NEAR,6204,1431,1388,-43,2021-12-29 17:35:00,False,Reader
+MDSPro,1624,Codeforces Round 764 (Div. 3),964,1388,1460,72,2022-01-10 16:50:00,False,Reader
+MDSPro,1629,Codeforces Round 767 (Div. 2),4102,1460,1439,-21,2022-01-22 16:35:00,False,Reader
+MDSPro,1631,Codeforces Round 768 (Div. 2),2425,1439,1468,29,2022-01-27 16:35:00,False,Reader
+MDSPro,1637,Codeforces Global Round 19,7166,1468,1395,-73,2022-02-12 17:05:00,False,Reader
+MDSPro,1638,Codeforces Round 771 (Div. 2),2455,1395,1435,40,2022-02-14 16:35:00,False,Reader
+MDSPro,1635,Codeforces Round 772 (Div. 2),2285,1435,1458,23,2022-02-20 16:35:00,False,Reader
+MDSPro,1644,Educational Codeforces Round 123 (Rated for Div. 2),629,1458,1578,120,2022-02-22 16:35:00,False,Reader
+MDSPro,1649,"Codeforces Round 775 (Div. 2, based on Moscow Open Olympiad in Informatics)",1383,1578,1581,3,2022-03-06 12:10:00,False,Reader
+MDSPro,1650,Codeforces Round 776 (Div. 3),2515,1581,1537,-44,2022-03-08 16:50:00,False,Reader
+MDSPro,1651,Educational Codeforces Round 124 (Rated for Div. 2),1973,1537,1545,8,2022-03-10 16:35:00,False,Reader
+MDSPro,1647,Codeforces Round 777 (Div. 2),623,1545,1642,97,2022-03-11 16:35:00,False,Reader
+MDSPro,1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",1529,1642,1694,52,2022-03-24 16:35:00,False,Reader
+MDSPro,1658,Codeforces Round 779 (Div. 2),2481,1694,1642,-52,2022-03-27 16:35:00,False,Reader
+MDSPro,1665,Codeforces Round 781 (Div. 2),833,1642,1680,38,2022-04-08 16:35:00,False,Reader
+MDSPro,1661,Educational Codeforces Round 126 (Rated for Div. 2),1989,1680,1647,-33,2022-04-09 16:35:00,False,Reader
+MDSPro,1668,Codeforces Round 783 (Div. 2),730,1647,1676,29,2022-04-19 16:35:00,False,Reader
+MDSPro,1671,Educational Codeforces Round 127 (Rated for Div. 2),2134,1676,1638,-38,2022-04-22 16:35:00,False,Reader
+MDSPro,1672,Codeforces Global Round 20,829,1638,1739,101,2022-04-23 17:05:00,False,Reader
+MDSPro,1670,Codeforces Round 788 (Div. 2),2033,1739,1683,-56,2022-05-06 16:35:00,False,Reader
+MDSPro,1698,Codeforces Round 803 (Div. 2),180,1683,1817,134,2022-06-28 16:50:00,False,Reader
+MDSPro,1699,Codeforces Round 804 (Div. 2),720,1817,1835,18,2022-07-04 16:35:00,False,Reader
+MDSPro,1709,Educational Codeforces Round 132 (Rated for Div. 2),933,1835,1832,-3,2022-07-21 16:35:00,False,Reader
+MDSPro,1711,Codeforces Round 810 (Div. 2),2737,1832,1749,-83,2022-07-24 16:35:00,False,Reader
+MDSPro,1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",971,1749,1823,74,2022-07-31 16:35:00,False,Reader
+MDSPro,1716,Educational Codeforces Round 133 (Rated for Div. 2),540,1823,1864,41,2022-08-04 16:35:00,False,Reader
+MDSPro,1712,Codeforces Round 813 (Div. 2),2183,1864,1805,-59,2022-08-13 16:50:00,False,Reader
+MDSPro,1719,Codeforces Round 814 (Div. 2),1570,1805,1762,-43,2022-08-16 16:35:00,False,Reader
+MDSPro,1720,Codeforces Round 815 (Div. 2),1761,1762,1725,-37,2022-08-18 15:35:00,False,Reader
+MDSPro,1715,Codeforces Round 816 (Div. 2),3482,1725,1650,-75,2022-08-20 16:50:00,False,Reader
+MDSPro,1771,Codeforces Round 837 (Div. 2),1681,1650,1639,-11,2022-12-11 17:35:00,False,Reader
+MDSPro,1766,Educational Codeforces Round 139 (Rated for Div. 2),342,1639,1739,100,2022-12-12 16:35:00,False,Reader
+MDSPro,1762,Codeforces Round 838 (Div. 2),1131,1739,1738,-1,2022-12-15 17:05:00,False,Reader
+MDSPro,1731,Codeforces Round 841 (Div. 2) and Divide by Zero 2022,554,1738,1787,49,2022-12-27 16:35:00,False,Reader
+MDSPro,1770,Good Bye 2022: 2023 is NEAR,2443,1787,1778,-9,2022-12-30 17:05:00,False,Reader
+MDSPro,1779,Hello 2023,1728,1778,1790,12,2023-01-03 17:05:00,False,Reader
+MDSPro,1768,Codeforces Round 842 (Div. 2),854,1790,1805,15,2023-01-05 16:35:00,False,Reader
+MDSPro,1783,Educational Codeforces Round 141 (Rated for Div. 2),2006,1805,1757,-48,2023-01-08 16:35:00,False,Reader
+MDSPro,1777,Codeforces Round 845 (Div. 2) and ByteRace 2023,751,1757,1766,9,2023-01-21 16:35:00,False,Reader
+MDSPro,1792,Educational Codeforces Round 142 (Rated for Div. 2),750,1766,1783,17,2023-01-24 16:35:00,False,Reader
+MDSPro,1778,Codeforces Round 848 (Div. 2),156,1783,1891,108,2023-02-01 16:35:00,False,Reader
+MDSPro,1786,"Codeforces Round 850 (Div. 2, based on VK Cup 2022 - Final Round)",1588,1891,1799,-92,2023-02-05 15:05:00,False,Reader
+MDSPro,1788,Codeforces Round 851 (Div. 2),762,1799,1814,15,2023-02-09 16:35:00,False,Reader
+MDSPro,1793,Codeforces Round 852 (Div. 2),410,1814,1859,45,2023-02-12 10:35:00,False,Reader
+MDSPro,1789,Codeforces Round 853 (Div. 2),4789,1859,1712,-147,2023-02-25 16:20:00,False,Reader
+MDSPro,1798,Codeforces Round 860 (Div. 2),369,1712,1793,81,2023-03-26 16:35:00,False,Reader
+MDSPro,1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",694,1793,1865,72,2023-03-31 16:35:00,False,Reader
+MDSPro,1805,Codeforces Round 862 (Div. 2),917,1865,1843,-22,2023-04-02 16:35:00,False,Reader
+MDSPro,1825,Codeforces Round 872 (Div. 2),224,1843,1881,38,2023-05-08 14:05:00,False,Reader
+MDSPro,1828,Codeforces Round 873 (Div. 2),2262,1881,1781,-100,2023-05-14 16:35:00,False,Reader
+MDSPro,1839,Codeforces Round 876 (Div. 2),838,1781,1780,-1,2023-06-03 16:35:00,False,Reader
+MDSPro,1838,Codeforces Round 877 (Div. 2),3931,1780,1687,-93,2023-06-04 16:45:00,False,Reader
+MDSPro,1841,Educational Codeforces Round 150 (Rated for Div. 2),295,1687,1786,99,2023-06-12 16:35:00,False,Reader
+MDSPro,1834,Codeforces Round 879 (Div. 2),314,1786,1844,58,2023-06-18 10:05:00,False,Reader
+MDSPro,1836,Codeforces Round 880 (Div. 2),283,1844,1880,36,2023-06-18 16:35:00,False,Reader
+MDSPro,1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",1132,1880,1889,9,2023-06-24 17:05:00,False,Reader
+MDSPro,1848,Codeforces Round 885 (Div. 2),1450,1889,1837,-52,2023-07-16 16:35:00,False,Reader
+MDSPro,1853,Codeforces Round 887 (Div. 2),239,1837,1893,56,2023-07-23 17:05:00,False,Reader
+MDSPro,1855,Codeforces Round 889 (Div. 2),3776,1893,1786,-107,2023-07-29 17:05:00,False,Reader
+MDSPro,1856,Codeforces Round 890 (Div. 2) supported by Constructor Institute,868,1786,1808,22,2023-08-05 16:35:00,False,Reader
+MDSPro,1858,Codeforces Round 893 (Div. 2),427,1808,1869,61,2023-08-15 16:35:00,False,Reader
+MDSPro,1860,Educational Codeforces Round 153 (Rated for Div. 2),500,1869,1906,37,2023-08-17 16:35:00,False,Reader
+MDSPro,1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),1395,1906,1898,-8,2023-08-26 17:35:00,False,Reader
+MDSPro,1863,Pinely Round 2 (Div. 1 + Div. 2),656,1898,1963,65,2023-08-30 17:35:00,False,Reader
+MDSPro,1861,Educational Codeforces Round 154 (Rated for Div. 2),392,1963,1985,22,2023-08-31 16:35:00,False,Reader
+MDSPro,1935,Codeforces Round 932 (Div. 2),1340,1985,1939,-46,2024-03-05 16:35:00,False,Reader
+MDSPro,1990,Codeforces Round 960 (Div. 2),34,1939,2099,160,2024-07-20 16:35:00,False,Reader
+MDSPro,1991,Pinely Round 4 (Div. 1 + Div. 2),5787,2099,1916,-183,2024-07-28 17:35:00,True,Reader
+MDSPro,1997,Educational Codeforces Round 168 (Rated for Div. 2),1857,1916,1875,-41,2024-07-30 16:35:00,False,Reader
+MDSPro,1993,Codeforces Round 963 (Div. 2),182,1875,1973,98,2024-08-04 16:35:00,False,Reader
+MDSPro,1998,Codeforces Round 965 (Div. 2),27,1973,2143,170,2024-08-10 16:35:00,False,Reader
+MDSPro,2029,Refact.ai Match 1 (Codeforces Round 985),898,2143,2114,-29,2024-11-09 17:35:00,False,Reader
+MDSPro,2053,Good Bye 2024: 2025 is NEAR,765,2114,2133,19,2024-12-28 17:35:00,False,Reader
+MDSPro,2057,Hello 2025,1030,2133,2118,-15,2025-01-04 17:05:00,False,Reader
+MDSPro,2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",730,2118,2115,-3,2025-01-20 17:35:00,False,Reader
+MDSPro,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",1800,2115,2053,-62,2025-01-26 17:05:00,False,Reader
+MDSPro,2059,Codeforces Round 1002 (Div. 2),496,2053,2048,-5,2025-02-02 16:35:00,False,Reader
+MDSPro,2066,Codeforces Round 1004 (Div. 1),1003,2048,1947,-101,2025-02-11 16:35:00,False,Reader
+rshohruh,1829,Codeforces Round 871 (Div. 4),2211,0,507,507,2023-05-06 16:50:00,True,Sometimes
+rshohruh,1825,Codeforces Round 872 (Div. 2),1854,507,877,370,2023-05-08 14:05:00,True,Sometimes
+rshohruh,1833,Codeforces Round 874 (Div. 3),3177,877,1165,288,2023-05-19 16:50:00,True,Sometimes
+rshohruh,1834,Codeforces Round 879 (Div. 2),6976,1165,1208,43,2023-06-18 10:05:00,False,Sometimes
+rshohruh,1843,Codeforces Round 881 (Div. 3),4331,1208,1286,78,2023-06-20 16:50:00,False,Sometimes
+rshohruh,1849,Educational Codeforces Round 152 (Rated for Div. 2),3294,1286,1373,87,2023-07-27 16:35:00,False,Sometimes
+rshohruh,1855,Codeforces Round 889 (Div. 2),8196,1373,1312,-61,2023-07-29 17:05:00,False,Sometimes
+rshohruh,1858,Codeforces Round 893 (Div. 2),17832,1312,1172,-140,2023-08-15 16:35:00,False,Sometimes
+rshohruh,1862,Codeforces Round 894 (Div. 3),2847,1172,1251,79,2023-08-24 16:50:00,False,Sometimes
+rshohruh,1872,Codeforces Round 895 (Div. 3),4280,1251,1270,19,2023-09-07 16:50:00,False,Sometimes
+rshohruh,1869,Codeforces Round 896 (Div. 2),3483,1270,1293,23,2023-09-10 16:35:00,False,Sometimes
+rshohruh,1873,Codeforces Round 898 (Div. 4),2798,1293,1314,21,2023-09-21 17:05:00,False,Sometimes
+rshohruh,1882,Codeforces Round 899 (Div. 2),7164,1314,1273,-41,2023-09-25 16:35:00,False,Sometimes
+rshohruh,1878,Codeforces Round 900 (Div. 3),587,1273,1419,146,2023-09-26 16:50:00,False,Sometimes
+rshohruh,1881,Codeforces Round 903 (Div. 3),2168,1419,1432,13,2023-10-12 16:50:00,False,Sometimes
+rshohruh,1884,Codeforces Round 904 (Div. 2),1888,1432,1462,30,2023-10-22 09:05:00,False,Sometimes
+rshohruh,1883,Codeforces Round 905 (Div. 3),4209,1462,1402,-60,2023-10-22 13:05:00,False,Sometimes
+rshohruh,1894,Codeforces Round 908 (Div. 2),4557,1402,1354,-48,2023-11-07 16:35:00,False,Sometimes
+rshohruh,1899,Codeforces Round 909 (Div. 3),1538,1354,1399,45,2023-11-17 16:50:00,False,Sometimes
+rshohruh,1901,Educational Codeforces Round 158 (Rated for Div. 2),2232,1399,1437,38,2023-11-24 16:35:00,False,Sometimes
+rshohruh,1914,Codeforces Round 916 (Div. 3),3302,1437,1419,-18,2023-12-19 17:05:00,False,Sometimes
+rshohruh,1917,Codeforces Round 917 (Div. 2),9437,1419,1312,-107,2023-12-24 16:35:00,False,Sometimes
+rshohruh,1915,Codeforces Round 918 (Div. 4),336,1312,1455,143,2023-12-28 17:05:00,False,Sometimes
+rshohruh,1919,Hello 2024,7457,1455,1419,-36,2024-01-06 17:05:00,False,Sometimes
+rshohruh,1922,Educational Codeforces Round 161 (Rated for Div. 2),4644,1419,1399,-20,2024-01-18 16:35:00,False,Sometimes
+rshohruh,1918,Codeforces Round 922 (Div. 2),3008,1399,1438,39,2024-01-30 16:45:00,False,Sometimes
+rshohruh,1927,Codeforces Round 923 (Div. 3),3799,1438,1433,-5,2024-02-06 17:00:00,False,Sometimes
+rshohruh,1931,Codeforces Round 925 (Div. 3),1762,1433,1473,40,2024-02-13 16:50:00,False,Sometimes
+rshohruh,1929,Codeforces Round 926 (Div. 2),4465,1473,1456,-17,2024-02-15 16:35:00,False,Sometimes
+rshohruh,1933,Codeforces Round 929 (Div. 3),2032,1456,1479,23,2024-02-27 16:50:00,False,Sometimes
+rshohruh,1937,Codeforces Round 930 (Div. 2),6199,1479,1414,-65,2024-02-29 16:35:00,False,Sometimes
+rshohruh,1969,Educational Codeforces Round 165 (Rated for Div. 2),2605,1414,1443,29,2024-04-29 16:35:00,False,Sometimes
+rshohruh,1968,Codeforces Round 943 (Div. 3),1864,1443,1463,20,2024-05-02 17:00:00,False,Sometimes
+rshohruh,1973,Codeforces Round 945 (Div. 2),2608,1463,1483,20,2024-05-17 16:35:00,False,Sometimes
+rshohruh,1986,Codeforces Round 954 (Div. 3),5523,1483,1440,-43,2024-06-23 17:05:00,False,Sometimes
+rshohruh,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",1173,1440,1538,98,2024-06-25 16:35:00,False,Sometimes
+rshohruh,1989,Educational Codeforces Round 167 (Rated for Div. 2),2567,1538,1551,13,2024-06-27 16:35:00,False,Sometimes
+rshohruh,1992,Codeforces Round 957 (Div. 3),2972,1551,1530,-21,2024-07-11 16:50:00,False,Sometimes
+rshohruh,1988,Codeforces Round 958 (Div. 2),6522,1530,1467,-63,2024-07-15 16:35:00,False,Sometimes
+rshohruh,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),5014,1467,1446,-21,2024-07-18 16:35:00,False,Sometimes
+rshohruh,1990,Codeforces Round 960 (Div. 2),2618,1446,1483,37,2024-07-20 16:35:00,False,Sometimes
+rshohruh,1993,Codeforces Round 963 (Div. 2),7407,1483,1430,-53,2024-08-04 16:35:00,False,Sometimes
+rshohruh,2014,Codeforces Round 974 (Div. 3),1736,1430,1466,36,2024-09-21 17:00:00,False,Sometimes
+rshohruh,2019,Codeforces Round 975 (Div. 2),674,1466,1583,117,2024-09-27 16:05:00,False,Sometimes
+rshohruh,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,3113,1583,1569,-14,2024-09-29 17:35:00,False,Sometimes
+rshohruh,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",1771,1569,1592,23,2024-10-06 08:05:00,False,Sometimes
+rshohruh,2025,Educational Codeforces Round 170 (Rated for Div. 2),2375,1592,1599,7,2024-10-14 16:35:00,False,Sometimes
+rshohruh,2030,Codeforces Round 979 (Div. 2),3049,1599,1577,-22,2024-10-19 16:20:00,False,Sometimes
+rshohruh,2033,Codeforces Round 981 (Div. 3),4312,1577,1520,-57,2024-10-24 16:50:00,False,Sometimes
+rshohruh,2027,Codeforces Round 982 (Div. 2),1323,1520,1571,51,2024-10-26 16:35:00,False,Sometimes
+rshohruh,2035,Codeforces Global Round 27,1391,1571,1650,79,2024-10-27 17:35:00,False,Sometimes
+rshohruh,2048,Codeforces Global Round 28,4489,1650,1591,-59,2024-12-19 17:35:00,False,Sometimes
+rshohruh,2049,Codeforces Round 994 (Div. 2),3414,1591,1566,-25,2024-12-20 16:35:00,False,Sometimes
+rshohruh,2063,Codeforces Round 1000 (Div. 2),2309,1566,1587,21,2025-01-22 14:05:00,False,Sometimes
+rshohruh,2059,Codeforces Round 1002 (Div. 2),1658,1587,1627,40,2025-02-02 16:35:00,False,Sometimes
+rshohruh,2078,Codeforces Round 1008 (Div. 2),1043,1627,1668,41,2025-03-10 17:15:00,False,Sometimes
+rshohruh,2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",1462,1668,1717,49,2025-04-05 17:35:00,False,Sometimes
+rshohruh,2110,Codeforces Round 1026 (Div. 2),234,1717,1838,121,2025-05-24 16:35:00,False,Sometimes
+rshohruh,2118,Codeforces Round 1030 (Div. 2),444,1838,1891,53,2025-06-12 16:35:00,False,Sometimes
+rshohruh,2128,Codeforces Round 1039 (Div. 2),3269,1891,1803,-88,2025-07-27 16:35:00,False,Sometimes
+rshohruh,2133,Codeforces Round 1044 (Div. 2),1689,1803,1784,-19,2025-08-24 16:35:00,False,Sometimes
+rshohruh,2134,Codeforces Round 1045 (Div. 2),2775,1784,1739,-45,2025-08-26 16:35:00,False,Sometimes
+rshohruh,2144,Educational Codeforces Round 182 (Rated for Div. 2),1038,1739,1769,30,2025-09-15 16:35:00,False,Sometimes
+rshohruh,2147,Codeforces Global Round 29 (Div. 1 + Div. 2),2126,1769,1768,-1,2025-09-20 17:35:00,False,Sometimes
+rshohruh,2146,Codeforces Round 1052 (Div. 2),573,1768,1821,53,2025-09-21 16:50:00,False,Sometimes
+Timosh,1933,Codeforces Round 929 (Div. 3),12576,0,421,421,2024-02-27 16:50:00,True,Non-reader
+Timosh,1937,Codeforces Round 930 (Div. 2),6391,421,739,318,2024-02-29 16:35:00,True,Non-reader
+Timosh,1935,Codeforces Round 932 (Div. 2),11656,739,923,184,2024-03-05 16:35:00,False,Non-reader
+Timosh,1941,Codeforces Round 933 (Div. 3),2458,923,1153,230,2024-03-11 16:50:00,True,Non-reader
+Timosh,1948,Educational Codeforces Round 163 (Rated for Div. 2),6067,1153,1257,104,2024-03-15 16:35:00,False,Non-reader
+Timosh,1944,Codeforces Round 934 (Div. 2),7140,1257,1257,0,2024-03-16 17:00:00,False,Non-reader
+Timosh,1945,Codeforces Round 935 (Div. 3),3079,1257,1272,15,2024-03-19 10:20:00,False,Non-reader
+Timosh,1946,Codeforces Round 936 (Div. 2),8478,1272,1225,-47,2024-03-22 16:35:00,False,Non-reader
+Timosh,1950,Codeforces Round 937 (Div. 4),1335,1225,1324,99,2024-03-28 17:00:00,False,Non-reader
+Timosh,1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",7605,1324,1257,-67,2024-03-30 17:35:00,False,Non-reader
+Timosh,1951,Codeforces Global Round 25,3425,1257,1330,73,2024-04-06 17:35:00,False,Non-reader
+Timosh,1955,Codeforces Round 938 (Div. 3),4136,1330,1344,14,2024-04-08 16:50:00,False,Non-reader
+Timosh,1956,Codeforces Round 939 (Div. 2),1045,1344,1480,136,2024-04-13 16:35:00,False,Non-reader
+Timosh,1957,Codeforces Round 940 (Div. 2) and CodeCraft-23,1031,1480,1572,92,2024-04-21 16:50:00,False,Non-reader
+Timosh,1966,Codeforces Round 941 (Div. 2),1406,1572,1588,16,2024-04-27 16:35:00,False,Non-reader
+Timosh,1969,Educational Codeforces Round 165 (Rated for Div. 2),4179,1588,1528,-60,2024-04-29 16:35:00,False,Non-reader
+Timosh,1972,Codeforces Round 942 (Div. 2),314,1528,1663,135,2024-04-30 17:05:00,False,Non-reader
+Timosh,1973,Codeforces Round 945 (Div. 2),3522,1663,1609,-54,2024-05-17 16:35:00,False,Non-reader
+Timosh,1975,Codeforces Round 947 (Div. 1 + Div. 2),4641,1609,1547,-62,2024-05-25 17:35:00,False,Non-reader
+Timosh,1977,Codeforces Round 948 (Div. 2),1374,1547,1597,50,2024-05-26 16:35:00,False,Non-reader
+Timosh,1976,Educational Codeforces Round 166 (Rated for Div. 2),7933,1597,1505,-92,2024-05-30 16:35:00,False,Non-reader
+Timosh,1980,Codeforces Round 950 (Div. 3),969,1505,1562,57,2024-06-03 16:50:00,False,Non-reader
+Timosh,1979,Codeforces Round 951 (Div. 2),1737,1562,1602,40,2024-06-06 16:35:00,False,Non-reader
+Timosh,1984,Codeforces Global Round 26,2663,1602,1607,5,2024-06-09 17:35:00,False,Non-reader
+Timosh,1978,Codeforces Round 953 (Div. 2),832,1607,1668,61,2024-06-16 11:05:00,False,Non-reader
+Timosh,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),2345,1668,1670,2,2024-06-30 17:35:00,False,Non-reader
+Timosh,1988,Codeforces Round 958 (Div. 2),4872,1670,1601,-69,2024-07-15 16:35:00,False,Non-reader
+Timosh,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),3049,1601,1601,0,2024-07-18 16:35:00,False,Non-reader
+Timosh,1990,Codeforces Round 960 (Div. 2),325,1601,1746,145,2024-07-20 16:35:00,False,Non-reader
+Timosh,1995,Codeforces Round 961 (Div. 2),217,1746,1864,118,2024-07-23 16:35:00,False,Non-reader
+Timosh,1991,Pinely Round 4 (Div. 1 + Div. 2),4075,1864,1772,-92,2024-07-28 17:35:00,False,Non-reader
+Timosh,1997,Educational Codeforces Round 168 (Rated for Div. 2),53,1772,1973,201,2024-07-30 16:35:00,True,Non-reader
+Timosh,1998,Codeforces Round 965 (Div. 2),1996,1973,1909,-64,2024-08-10 16:35:00,False,Non-reader
+Timosh,2003,Codeforces Round 968 (Div. 2),6371,1909,1774,-135,2024-08-25 16:35:00,False,Non-reader
+Timosh,2007,Codeforces Round 969 (Div. 2),253,1774,1855,81,2024-08-30 17:05:00,False,Non-reader
+Timosh,2005,Codeforces Round 972 (Div. 2),1928,1855,1816,-39,2024-09-14 16:35:00,False,Non-reader
+Timosh,2013,Codeforces Round 973 (Div. 2),9,1816,2070,254,2024-09-20 16:35:00,True,Non-reader
+Timosh,2018,Codeforces Round 975 (Div. 1),1030,2070,1989,-81,2024-09-27 16:05:00,False,Non-reader
+Timosh,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,2448,1989,1899,-90,2024-09-29 17:35:00,False,Non-reader
+Timosh,2025,Educational Codeforces Round 170 (Rated for Div. 2),1759,1899,1852,-47,2024-10-14 16:35:00,False,Non-reader
+Timosh,2030,Codeforces Round 979 (Div. 2),3131,1852,1769,-83,2024-10-19 16:20:00,False,Non-reader
+Timosh,2024,Codeforces Round 980 (Div. 2),481,1769,1805,36,2024-10-20 11:05:00,False,Non-reader
+Timosh,2027,Codeforces Round 982 (Div. 2),459,1805,1850,45,2024-10-26 16:35:00,False,Non-reader
+Timosh,2032,Codeforces Round 983 (Div. 2),457,1850,1897,47,2024-11-01 16:35:00,False,Non-reader
+Timosh,2029,Refact.ai Match 1 (Codeforces Round 985),3448,1897,1770,-127,2024-11-09 17:35:00,False,Non-reader
+Timosh,2028,Codeforces Round 986 (Div. 2),255,1770,1862,92,2024-11-10 17:35:00,False,Non-reader
+Timosh,2031,Codeforces Round 987 (Div. 2),249,1862,1937,75,2024-11-15 14:35:00,False,Non-reader
+Timosh,2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",1701,1937,1902,-35,2024-11-23 17:35:00,False,Non-reader
+Timosh,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",3377,1902,1799,-103,2024-11-30 17:35:00,False,Non-reader
+Timosh,2042,Educational Codeforces Round 172 (Rated for Div. 2),242,1799,1888,89,2024-12-02 16:35:00,False,Non-reader
+Timosh,2040,Codeforces Round 992 (Div. 2),513,1888,1907,19,2024-12-08 16:35:00,False,Non-reader
+Timosh,2049,Codeforces Round 994 (Div. 2),443,1907,1940,33,2024-12-20 16:35:00,False,Non-reader
+Timosh,2043,Educational Codeforces Round 173 (Rated for Div. 2),256,1940,1987,47,2024-12-24 16:35:00,False,Non-reader
+Timosh,2055,Codeforces Round 996 (Div. 2),1306,1987,1947,-40,2025-01-12 16:35:00,False,Non-reader
+Timosh,2063,Codeforces Round 1000 (Div. 2),234,1947,2010,63,2025-01-22 14:05:00,False,Non-reader
+Timosh,2059,Codeforces Round 1002 (Div. 2),856,2010,1985,-25,2025-02-02 16:35:00,False,Non-reader
+Timosh,2066,Codeforces Round 1004 (Div. 1),806,1985,1952,-33,2025-02-11 16:35:00,False,Non-reader
+Timosh,2064,Codeforces Round 1005 (Div. 2),86,1952,2061,109,2025-02-16 16:35:00,False,Non-reader
+Timosh,2069,Educational Codeforces Round 174 (Rated for Div. 2),123,2061,2117,56,2025-02-18 16:35:00,False,Non-reader
+Timosh,2077,Codeforces Round 1008 (Div. 1),761,2117,2047,-70,2025-03-10 17:15:00,False,Non-reader
+Timosh,2075,Educational Codeforces Round 176 (Rated for Div. 2),854,2047,2011,-36,2025-03-17 16:35:00,False,Non-reader
+Timosh,2085,Codeforces Round 1011 (Div. 2),22,2011,2165,154,2025-03-22 16:35:00,False,Non-reader
+Timosh,2089,Codeforces Round 1012 (Div. 1),286,2165,2176,11,2025-03-23 08:05:00,False,Non-reader
+Timosh,2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",595,2176,2187,11,2025-04-19 16:35:00,False,Non-reader
+Timosh,2115,Codeforces Round 1028 (Div. 1),924,2187,2078,-109,2025-05-31 16:35:00,False,Non-reader
+Timosh,2111,Educational Codeforces Round 179 (Rated for Div. 2),1032,2078,2010,-68,2025-06-03 16:35:00,False,Non-reader
+Timosh,2118,Codeforces Round 1030 (Div. 2),125,2010,2081,71,2025-06-12 16:35:00,False,Non-reader
+Timosh,2120,Codeforces Round 1033 (Div. 2) and CodeNite 2025,475,2081,2065,-16,2025-06-21 16:35:00,False,Non-reader
+Timosh,2112,Educational Codeforces Round 180 (Rated for Div. 2),858,2065,2014,-51,2025-06-23 16:35:00,False,Non-reader
+Timosh,2119,Codeforces Round 1035 (Div. 2),642,2014,2005,-9,2025-07-05 16:35:00,False,Non-reader
+Timosh,2124,"EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",810,2005,2017,12,2025-07-06 17:35:00,False,Non-reader
+Timosh,2122,"Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",238,2017,2155,138,2025-07-19 16:50:00,False,Non-reader
+Timosh,2129,Codeforces Round 1040 (Div. 1),355,2155,2187,32,2025-07-31 17:35:00,False,Non-reader
+Timosh,2150,Codeforces Round 1053 (Div. 1),632,2187,2144,-43,2025-09-24 14:50:00,False,Non-reader
+Timosh,2159,Codeforces Round 1058 (Div. 1),835,2144,2051,-93,2025-10-12 17:05:00,False,Non-reader
+Oddiyodam04,2086,Educational Codeforces Round 177 (Rated for Div. 2),12829,0,419,419,2025-04-03 16:35:00,True,Reader
+Oddiyodam04,2094,Codeforces Round 1017 (Div. 4),15009,419,667,248,2025-04-13 17:50:00,True,Reader
+Oddiyodam04,2107,Codeforces Round 1023 (Div. 2),9080,667,838,171,2025-05-05 16:50:00,False,Reader
+Oddiyodam04,2120,Codeforces Round 1033 (Div. 2) and CodeNite 2025,5798,838,1021,183,2025-06-21 16:35:00,False,Reader
+Oddiyodam04,2112,Educational Codeforces Round 180 (Rated for Div. 2),10851,1021,1082,61,2025-06-23 16:35:00,False,Reader
+Oddiyodam04,2123,Codeforces Round 1034 (Div. 3),4581,1082,1196,114,2025-07-01 16:50:00,False,Reader
+Oddiyodam04,2126,Codeforces Round 1037 (Div. 3),5317,1196,1226,30,2025-07-17 16:50:00,False,Reader
+Oddiyodam04,2140,Codeforces Round 1049 (Div. 2),7236,1226,1219,-7,2025-09-09 16:35:00,False,Reader
+Oddiyodam04,2148,Codeforces Round 1050 (Div. 4),1451,1219,1301,82,2025-09-13 16:50:00,False,Reader
+Oddiyodam04,2155,Codeforces Round 1056 (Div. 2),8548,1301,1235,-66,2025-10-05 18:35:00,False,Reader
+Oddiyodam04,2153,Codeforces Round 1057 (Div. 2),5790,1235,1258,23,2025-10-10 16:50:00,False,Reader
+mbi,1343,Codeforces Round 636 (Div. 3),7759,0,1438,1438,2020-04-21 16:35:00,True,Sometimes
+mbi,1341,"Codeforces Round 637 (Div. 2) - Thanks, Ivan Belonogov!",9347,1438,1384,-54,2020-04-23 17:15:00,False,Sometimes
+mbi,1353,Codeforces Round 642 (Div. 3),14406,1384,1259,-125,2020-05-14 16:35:00,False,Sometimes
+mbi,1405,Codeforces Round 668 (Div. 2),6442,1259,1234,-25,2020-09-06 16:35:00,False,Sometimes
+mbi,1417,Codeforces Round 673 (Div. 2),4850,1234,1203,-31,2020-09-27 17:05:00,False,Sometimes
+mbi,1426,Codeforces Round 674 (Div. 3),1830,1203,1259,56,2020-09-28 10:05:00,False,Sometimes
+mbi,1422,Codeforces Round 675 (Div. 2),2923,1259,1301,42,2020-10-04 18:05:00,False,Sometimes
+mbi,1428,Codeforces Raif Round 1 (Div. 1 + Div. 2),3860,1301,1335,34,2020-10-17 15:35:00,False,Sometimes
+mbi,1433,Codeforces Round 677 (Div. 3),3358,1335,1330,-5,2020-10-20 16:35:00,False,Sometimes
+mbi,1437,Educational Codeforces Round 97 (Rated for Div. 2),2812,1330,1369,39,2020-10-27 16:35:00,False,Sometimes
+mbi,1445,"Codeforces Round 680 (Div. 2, based on Moscow Team Olympiad)",2919,1369,1355,-14,2020-11-01 13:05:00,False,Sometimes
+mbi,1443,"Codeforces Round 681 (Div. 2, based on VK Cup 2019-2020 - Final)",6223,1355,1262,-93,2020-11-02 16:35:00,False,Sometimes
+mbi,1452,Educational Codeforces Round 98 (Rated for Div. 2),3501,1262,1290,28,2020-11-19 16:35:00,False,Sometimes
+mbi,1454,Codeforces Round 686 (Div. 3),6023,1290,1247,-43,2020-11-24 16:35:00,False,Sometimes
+mbi,1453,Codeforces Round 688 (Div. 2),5692,1247,1211,-36,2020-12-04 15:20:00,False,Sometimes
+mbi,1462,Codeforces Round 690 (Div. 3),8803,1211,1133,-78,2020-12-15 16:35:00,False,Sometimes
+mbi,1471,Codeforces Round 694 (Div. 2),9803,1133,1023,-110,2021-01-05 16:35:00,False,Sometimes
+mbi,1473,Educational Codeforces Round 102 (Rated for Div. 2),8596,1023,1028,5,2021-01-14 16:35:00,False,Sometimes
+mbi,1474,Codeforces Round 696 (Div. 2),6887,1028,1067,39,2021-01-19 16:35:00,False,Sometimes
+mbi,1476,Educational Codeforces Round 103 (Rated for Div. 2),4326,1067,1172,105,2021-01-29 16:35:00,False,Sometimes
+mbi,1481,Codeforces Round 699 (Div. 2),5219,1172,1212,40,2021-02-05 16:35:00,False,Sometimes
+mbi,1480,Codeforces Round 700 (Div. 2),3065,1212,1293,81,2021-02-07 16:50:00,False,Sometimes
+mbi,1487,Educational Codeforces Round 104 (Rated for Div. 2),9448,1293,1211,-82,2021-02-15 16:35:00,False,Sometimes
+mbi,1490,Codeforces Round 702 (Div. 3),4113,1211,1220,9,2021-02-16 16:35:00,False,Sometimes
+mbi,1486,Codeforces Round 703 (Div. 2),5984,1220,1229,9,2021-02-18 16:50:00,False,Sometimes
+mbi,1491,Codeforces Global Round 13,4364,1229,1275,46,2021-02-28 16:35:00,False,Sometimes
+mbi,1501,"Codeforces Round 707 (Div. 2, based on Moscow Open Olympiad in Informatics)",2674,1275,1298,23,2021-03-13 11:35:00,False,Sometimes
+mbi,1499,Educational Codeforces Round 106 (Rated for Div. 2),6469,1298,1246,-52,2021-03-18 16:50:00,False,Sometimes
+mbi,1484,"Codeforces Round 709 (Div. 2, based on Technocup 2021 Final Round)",4725,1246,1206,-40,2021-03-21 15:35:00,False,Sometimes
+mbi,1498,CodeCraft-21 and Codeforces Round 711 (Div. 2),4773,1206,1203,-3,2021-03-29 16:35:00,False,Sometimes
+mbi,1504,Codeforces Round 712 (Div. 2),4966,1203,1198,-5,2021-04-03 16:50:00,False,Sometimes
+mbi,1512,Codeforces Round 713 (Div. 3),6259,1198,1169,-29,2021-04-10 16:35:00,False,Sometimes
+mbi,1513,Divide by Zero 2021 and Codeforces Round 714 (Div. 2),5355,1169,1160,-9,2021-04-11 16:35:00,False,Sometimes
+mbi,1511,Educational Codeforces Round 107 (Rated for Div. 2),2217,1160,1275,115,2021-04-12 16:35:00,False,Sometimes
+mbi,1509,Codeforces Round 715 (Div. 2),5038,1275,1258,-17,2021-04-16 16:50:00,False,Sometimes
+mbi,1514,Codeforces Round 716 (Div. 2),8121,1258,1180,-78,2021-04-19 15:50:00,False,Sometimes
+mbi,1516,Codeforces Round 717 (Div. 2),4326,1180,1214,34,2021-04-21 15:35:00,False,Sometimes
+mbi,1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),6446,1214,1199,-15,2021-04-23 17:20:00,False,Sometimes
+mbi,1519,Educational Codeforces Round 108 (Rated for Div. 2),9281,1199,1144,-55,2021-04-29 16:35:00,False,Sometimes
+mbi,1515,Codeforces Global Round 14,1736,1144,1334,190,2021-05-02 17:35:00,True,Sometimes
+mbi,1520,Codeforces Round 719 (Div. 3),4761,1334,1317,-17,2021-05-05 16:35:00,False,Sometimes
+mbi,1521,Codeforces Round 720 (Div. 2),3740,1317,1353,36,2021-05-07 16:50:00,False,Sometimes
+mbi,1527,Codeforces Round 721 (Div. 2),613,1353,1529,176,2021-05-20 16:35:00,False,Sometimes
+mbi,1529,Codeforces Round 722 (Div. 2),5319,1529,1471,-58,2021-05-24 16:50:00,False,Sometimes
+mbi,1526,Codeforces Round 723 (Div. 2),3661,1471,1462,-9,2021-05-28 16:35:00,False,Sometimes
+mbi,1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",2680,1462,1494,32,2021-05-30 16:50:00,False,Sometimes
+mbi,1536,Codeforces Round 724 (Div. 2),4328,1494,1451,-43,2021-06-06 16:35:00,False,Sometimes
+mbi,1538,Codeforces Round 725 (Div. 3),2904,1451,1436,-15,2021-06-10 16:50:00,False,Sometimes
+mbi,1537,Codeforces Round 726 (Div. 2),8163,1436,1368,-68,2021-06-18 16:35:00,False,Sometimes
+mbi,1539,Codeforces Round 727 (Div. 2),5908,1368,1306,-62,2021-06-20 12:05:00,False,Sometimes
+mbi,1541,Codeforces Round 728 (Div. 2),4529,1306,1305,-1,2021-06-25 17:50:00,False,Sometimes
+mbi,1542,Codeforces Round 729 (Div. 2),2495,1305,1378,73,2021-07-03 15:05:00,False,Sometimes
+mbi,1543,Codeforces Round 730 (Div. 2),3644,1378,1391,13,2021-07-07 16:50:00,False,Sometimes
+mbi,1547,Codeforces Round 731 (Div. 3),3231,1391,1383,-8,2021-07-10 16:50:00,False,Sometimes
+mbi,1550,Educational Codeforces Round 111 (Rated for Div. 2),5499,1383,1359,-24,2021-07-14 16:35:00,False,Sometimes
+mbi,1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",5795,1359,1330,-29,2021-07-22 17:05:00,False,Sometimes
+mbi,1551,Codeforces Round 734 (Div. 3),1506,1330,1390,60,2021-07-23 16:35:00,False,Sometimes
+mbi,1555,Educational Codeforces Round 112 (Rated for Div. 2),9809,1390,1249,-141,2021-07-30 16:35:00,False,Sometimes
+mbi,1579,Codeforces Round 744 (Div. 3),4026,1249,1256,7,2021-09-28 16:50:00,False,Sometimes
+mbi,1602,Codeforces Round 751 (Div. 2),2408,1256,1272,16,2021-10-25 08:35:00,False,Sometimes
+mbi,1606,Educational Codeforces Round 116 (Rated for Div. 2),3787,1272,1294,22,2021-10-29 16:35:00,False,Sometimes
+mbi,1604,Codeforces Round 752 (Div. 2),1468,1294,1384,90,2021-10-30 16:35:00,False,Sometimes
+mbi,1607,Codeforces Round 753 (Div. 3),7140,1384,1298,-86,2021-11-02 16:35:00,False,Sometimes
+mbi,1610,Codeforces Global Round 17,4449,1298,1290,-8,2021-11-23 17:35:00,False,Sometimes
+mbi,1611,Codeforces Round 756 (Div. 3),3944,1290,1276,-14,2021-11-25 16:50:00,False,Sometimes
+mbi,1614,Codeforces Round 757 (Div. 2),3105,1276,1301,25,2021-11-26 13:15:00,False,Sometimes
+mbi,1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",3947,1301,1288,-13,2021-11-28 17:05:00,False,Sometimes
+mbi,1613,Educational Codeforces Round 118 (Rated for Div. 2),2573,1288,1343,55,2021-12-01 16:35:00,False,Sometimes
+mbi,1608,Codeforces Round 758 (Div.1 + Div. 2),3196,1343,1356,13,2021-12-11 12:05:00,False,Sometimes
+mbi,1591,"Codeforces Round 759 (Div. 2, based on Technocup 2022 Elimination Round 3)",2155,1356,1380,24,2021-12-12 17:15:00,False,Sometimes
+mbi,1618,Codeforces Round 760 (Div. 3),280,1380,1509,129,2021-12-14 16:50:00,False,Sometimes
+mbi,1617,Codeforces Round 761 (Div. 2),626,1509,1608,99,2021-12-16 15:35:00,False,Sometimes
+mbi,2024,Codeforces Round 980 (Div. 2),4868,1608,1526,-82,2024-10-20 11:05:00,False,Sometimes
+mbi,2035,Codeforces Global Round 27,5277,1526,1463,-63,2024-10-27 17:35:00,False,Sometimes
+mbi,2026,Educational Codeforces Round 171 (Rated for Div. 2),2345,1463,1503,40,2024-10-28 16:35:00,False,Sometimes
+mbi,2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",3291,1503,1492,-11,2024-11-23 17:35:00,False,Sometimes
+mbi,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",1775,1492,1563,71,2024-11-30 17:35:00,False,Sometimes
+mbi,2048,Codeforces Global Round 28,1550,1563,1635,72,2024-12-19 17:35:00,False,Sometimes
+mbi,2108,Codeforces Round 1022 (Div. 2),2810,1635,1596,-39,2025-05-01 16:35:00,False,Sometimes
+mbi,2109,Codeforces Round 1025 (Div. 2),2056,1596,1602,6,2025-05-17 16:50:00,False,Sometimes
+mbi,2133,Codeforces Round 1044 (Div. 2),297,1602,1748,146,2025-08-24 16:35:00,False,Sometimes
+DoNo0425,2059,Codeforces Round 1002 (Div. 2),8004,0,463,463,2025-02-02 16:35:00,True,Sometimes
+DoNo0425,2064,Codeforces Round 1005 (Div. 2),6834,463,784,321,2025-02-16 16:35:00,True,Sometimes
+DoNo0425,2069,Educational Codeforces Round 174 (Rated for Div. 2),12195,784,939,155,2025-02-18 16:35:00,False,Sometimes
+DoNo0425,2072,Codeforces Round 1006 (Div. 3),6841,939,1088,149,2025-02-25 16:50:00,False,Sometimes
+DoNo0425,2070,Educational Codeforces Round 175 (Rated for Div. 2),13739,1088,1093,5,2025-02-27 16:35:00,False,Sometimes
+DoNo0425,2071,Codeforces Round 1007 (Div. 2),4594,1093,1214,121,2025-02-28 16:50:00,False,Sometimes
+DoNo0425,2078,Codeforces Round 1008 (Div. 2),7715,1214,1195,-19,2025-03-10 17:15:00,False,Sometimes
+DoNo0425,2074,Codeforces Round 1009 (Div. 3),6584,1195,1205,10,2025-03-11 17:05:00,False,Sometimes
+DoNo0425,2075,Educational Codeforces Round 176 (Rated for Div. 2),6867,1205,1216,11,2025-03-17 16:35:00,False,Sometimes
+DoNo0425,2085,Codeforces Round 1011 (Div. 2),8868,1216,1181,-35,2025-03-22 16:35:00,False,Sometimes
+DoNo0425,2090,Codeforces Round 1012 (Div. 2),4227,1181,1177,-4,2025-03-23 08:05:00,False,Sometimes
+DoNo0425,2091,Codeforces Round 1013 (Div. 3),8185,1177,1174,-3,2025-03-25 16:50:00,False,Sometimes
+DoNo0425,2093,Codeforces Round 1016 (Div. 3),2248,1174,1275,101,2025-04-08 16:50:00,False,Sometimes
+DoNo0425,2094,Codeforces Round 1017 (Div. 4),4363,1275,1277,2,2025-04-13 17:50:00,False,Sometimes
+DoNo0425,2106,Codeforces Round 1020 (Div. 3),4454,1277,1282,5,2025-04-24 16:50:00,False,Sometimes
+DoNo0425,2108,Codeforces Round 1022 (Div. 2),4612,1282,1280,-2,2025-05-01 16:35:00,False,Sometimes
+DoNo0425,2102,Codeforces Round 1024 (Div. 2),2948,1280,1321,41,2025-05-11 17:05:00,False,Sometimes
+DoNo0425,2110,Codeforces Round 1026 (Div. 2),5645,1321,1324,3,2025-05-24 16:35:00,False,Sometimes
+DoNo0425,2114,Codeforces Round 1027 (Div. 3),5278,1324,1320,-4,2025-05-26 16:50:00,False,Sometimes
+DoNo0425,2116,Codeforces Round 1028 (Div. 2),6905,1320,1304,-16,2025-05-31 16:35:00,False,Sometimes
+DoNo0425,2111,Educational Codeforces Round 179 (Rated for Div. 2),7681,1304,1251,-53,2025-06-03 16:35:00,False,Sometimes
+DoNo0425,2117,Codeforces Round 1029 (Div. 3),8220,1251,1224,-27,2025-06-08 16:50:00,False,Sometimes
+DoNo0425,2112,Educational Codeforces Round 180 (Rated for Div. 2),2631,1224,1324,100,2025-06-23 16:35:00,False,Sometimes
+DoNo0425,2123,Codeforces Round 1034 (Div. 3),3904,1324,1343,19,2025-07-01 16:50:00,False,Sometimes
+DoNo0425,2128,Codeforces Round 1039 (Div. 2),3109,1343,1395,52,2025-07-27 16:35:00,False,Sometimes
+DoNo0425,2132,Codeforces Round 1043 (Div. 3),4195,1395,1394,-1,2025-08-21 16:50:00,False,Sometimes
+DoNo0425,2133,Codeforces Round 1044 (Div. 2),1897,1394,1478,84,2025-08-24 16:35:00,False,Sometimes
+DoNo0425,2137,Codeforces Round 1047 (Div. 3),3125,1478,1465,-13,2025-09-07 16:50:00,False,Sometimes
+DoNo0425,2144,Educational Codeforces Round 182 (Rated for Div. 2),7208,1465,1402,-63,2025-09-15 16:35:00,False,Sometimes
+DoNo0425,2143,Codeforces Round 1051 (Div. 2),1658,1402,1496,94,2025-09-17 16:35:00,False,Sometimes
+DoNo0425,2146,Codeforces Round 1052 (Div. 2),2681,1496,1508,12,2025-09-21 16:50:00,False,Sometimes
+DoNo0425,2149,Codeforces Round 1054 (Div. 3),2382,1508,1499,-9,2025-09-25 16:50:00,False,Sometimes
+DoNo0425,2152,"Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",1529,1499,1600,101,2025-10-03 17:35:00,False,Sometimes
+hackstar,1901,Educational Codeforces Round 158 (Rated for Div. 2),10556,0,355,355,2023-11-24 16:35:00,True,Non-reader
+hackstar,1921,Codeforces Round 920 (Div. 3),23625,355,571,216,2024-01-15 16:50:00,True,Non-reader
+hackstar,1923,Educational Codeforces Round 162 (Rated for Div. 2),8951,571,803,232,2024-02-23 16:35:00,True,Non-reader
+hackstar,1948,Educational Codeforces Round 163 (Rated for Div. 2),16626,803,837,34,2024-03-15 16:35:00,False,Non-reader
+hackstar,1950,Codeforces Round 937 (Div. 4),19360,837,888,51,2024-03-28 17:00:00,False,Non-reader
+hackstar,1955,Codeforces Round 938 (Div. 3),14964,888,923,35,2024-04-08 16:50:00,False,Non-reader
+hackstar,1954,Educational Codeforces Round 164 (Rated for Div. 2),12899,923,825,-98,2024-04-12 16:35:00,False,Non-reader
+hackstar,1971,Codeforces Round 944 (Div. 4),11646,825,861,36,2024-05-10 16:50:00,False,Non-reader
+hackstar,1974,Codeforces Round 946 (Div. 3),17014,861,826,-35,2024-05-20 16:50:00,False,Non-reader
+hackstar,1975,Codeforces Round 947 (Div. 1 + Div. 2),8387,826,887,61,2024-05-25 17:35:00,False,Non-reader
+hackstar,1977,Codeforces Round 948 (Div. 2),8133,887,956,69,2024-05-26 16:35:00,False,Non-reader
+hackstar,1976,Educational Codeforces Round 166 (Rated for Div. 2),11172,956,979,23,2024-05-30 16:35:00,False,Non-reader
+hackstar,1981,Codeforces Round 949 (Div. 2),9667,979,936,-43,2024-05-31 12:05:00,False,Non-reader
+hackstar,1979,Codeforces Round 951 (Div. 2),9670,936,993,57,2024-06-06 16:35:00,False,Non-reader
+hackstar,1985,Codeforces Round 952 (Div. 4),2379,993,1117,124,2024-06-11 17:05:00,False,Non-reader
+hackstar,1978,Codeforces Round 953 (Div. 2),5230,1117,1148,31,2024-06-16 11:05:00,False,Non-reader
+hackstar,1986,Codeforces Round 954 (Div. 3),8314,1148,1157,9,2024-06-23 17:05:00,False,Non-reader
+hackstar,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",5173,1157,1208,51,2024-06-25 16:35:00,False,Non-reader
+hackstar,1989,Educational Codeforces Round 167 (Rated for Div. 2),5454,1208,1242,34,2024-06-27 16:35:00,False,Non-reader
+hackstar,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),6015,1242,1248,6,2024-06-30 17:35:00,False,Non-reader
+hackstar,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),4159,1248,1309,61,2024-07-18 16:35:00,False,Non-reader
+hackstar,1990,Codeforces Round 960 (Div. 2),7879,1309,1268,-41,2024-07-20 16:35:00,False,Non-reader
+hackstar,1995,Codeforces Round 961 (Div. 2),5685,1268,1273,5,2024-07-23 16:35:00,False,Non-reader
+hackstar,1996,Codeforces Round 962 (Div. 3),2165,1273,1349,76,2024-07-26 17:05:00,False,Non-reader
+hackstar,1991,Pinely Round 4 (Div. 1 + Div. 2),5361,1349,1353,4,2024-07-28 17:35:00,False,Non-reader
+hackstar,1997,Educational Codeforces Round 168 (Rated for Div. 2),4697,1353,1384,31,2024-07-30 16:35:00,False,Non-reader
+hackstar,1993,Codeforces Round 963 (Div. 2),7654,1384,1351,-33,2024-08-04 16:35:00,False,Non-reader
+hackstar,1999,Codeforces Round 964 (Div. 4),6367,1351,1324,-27,2024-08-06 17:00:00,False,Non-reader
+hackstar,1998,Codeforces Round 965 (Div. 2),5530,1324,1341,17,2024-08-10 16:35:00,False,Non-reader
+hackstar,2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),6376,1341,1325,-16,2024-08-11 17:35:00,False,Non-reader
+hackstar,2000,Codeforces Round 966 (Div. 3),3259,1325,1369,44,2024-08-13 16:55:00,False,Non-reader
+hackstar,2001,Codeforces Round 967 (Div. 2),6672,1369,1352,-17,2024-08-20 16:35:00,False,Non-reader
+hackstar,2007,Codeforces Round 969 (Div. 2),3314,1352,1382,30,2024-08-30 17:05:00,False,Non-reader
+hackstar,2008,Codeforces Round 970 (Div. 3),9614,1382,1317,-65,2024-09-01 16:50:00,False,Non-reader
+hackstar,2005,Codeforces Round 972 (Div. 2),6753,1317,1298,-19,2024-09-14 16:35:00,False,Non-reader
+hackstar,2014,Codeforces Round 974 (Div. 3),9552,1298,1246,-52,2024-09-21 17:00:00,False,Non-reader
+hackstar,2019,Codeforces Round 975 (Div. 2),7054,1246,1221,-25,2024-09-27 16:05:00,False,Non-reader
+hackstar,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,5958,1221,1237,16,2024-09-29 17:35:00,False,Non-reader
+hackstar,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",3423,1237,1288,51,2024-10-06 08:05:00,False,Non-reader
+hackstar,2022,Codeforces Round 978 (Div. 2),2641,1288,1295,7,2024-10-13 21:35:00,False,Non-reader
+hackstar,2030,Codeforces Round 979 (Div. 2),3675,1295,1338,43,2024-10-19 16:20:00,False,Non-reader
+hackstar,2024,Codeforces Round 980 (Div. 2),10768,1338,1223,-115,2024-10-20 11:05:00,False,Non-reader
+hackstar,2033,Codeforces Round 981 (Div. 3),3402,1223,1275,52,2024-10-24 16:50:00,False,Non-reader
+hackstar,2027,Codeforces Round 982 (Div. 2),4768,1275,1279,4,2024-10-26 16:35:00,False,Non-reader
+hackstar,2035,Codeforces Global Round 27,7060,1279,1233,-46,2024-10-27 17:35:00,False,Non-reader
+hackstar,2026,Educational Codeforces Round 171 (Rated for Div. 2),5925,1233,1241,8,2024-10-28 16:35:00,False,Non-reader
+hackstar,2032,Codeforces Round 983 (Div. 2),5060,1241,1266,25,2024-11-01 16:35:00,False,Non-reader
+hackstar,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",4789,1266,1275,9,2024-11-30 17:35:00,False,Non-reader
+hackstar,2050,Codeforces Round 991 (Div. 3),5856,1275,1255,-20,2024-12-05 16:50:00,False,Non-reader
+hackstar,2044,Codeforces Round 993 (Div. 4),758,1255,1365,110,2024-12-15 16:50:00,False,Non-reader
+hackstar,2049,Codeforces Round 994 (Div. 2),2077,1365,1442,77,2024-12-20 16:35:00,False,Non-reader
+hackstar,2055,Codeforces Round 996 (Div. 2),2883,1442,1483,41,2025-01-12 16:35:00,False,Non-reader
+hackstar,2060,Codeforces Round 998 (Div. 3),23507,1483,1329,-154,2025-01-19 17:05:00,True,Non-reader
+hackstar,2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",3043,1329,1389,60,2025-01-20 17:35:00,False,Non-reader
+hackstar,2063,Codeforces Round 1000 (Div. 2),3900,1389,1413,24,2025-01-22 14:05:00,False,Non-reader
+hackstar,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",2585,1413,1491,78,2025-01-26 17:05:00,False,Non-reader
+hackstar,2059,Codeforces Round 1002 (Div. 2),3096,1491,1507,16,2025-02-02 16:35:00,False,Non-reader
+hackstar,2067,Codeforces Round 1004 (Div. 2),3286,1507,1501,-6,2025-02-11 16:35:00,False,Non-reader
+hackstar,2064,Codeforces Round 1005 (Div. 2),3566,1501,1497,-4,2025-02-16 16:35:00,False,Non-reader
+hackstar,2069,Educational Codeforces Round 174 (Rated for Div. 2),3312,1497,1496,-1,2025-02-18 16:35:00,False,Non-reader
+hackstar,2093,Codeforces Round 1016 (Div. 3),423,1496,1591,95,2025-04-08 16:50:00,False,Non-reader
+hackstar,2106,Codeforces Round 1020 (Div. 3),109,1591,1725,134,2025-04-24 16:50:00,False,Non-reader
+hackstar,2104,Educational Codeforces Round 178 (Rated for Div. 2),2036,1725,1691,-34,2025-04-28 16:35:00,False,Non-reader
+hackstar,2102,Codeforces Round 1024 (Div. 2),2749,1691,1633,-58,2025-05-11 17:05:00,False,Non-reader
+hackstar,2109,Codeforces Round 1025 (Div. 2),1197,1633,1669,36,2025-05-17 16:50:00,False,Non-reader
+hackstar,2110,Codeforces Round 1026 (Div. 2),786,1669,1731,62,2025-05-24 16:35:00,False,Non-reader
+hackstar,2116,Codeforces Round 1028 (Div. 2),7255,1731,1621,-110,2025-05-31 16:35:00,False,Non-reader
+hackstar,2111,Educational Codeforces Round 179 (Rated for Div. 2),1116,1621,1662,41,2025-06-03 16:35:00,False,Non-reader
+hackstar,2120,Codeforces Round 1033 (Div. 2) and CodeNite 2025,2767,1662,1634,-28,2025-06-21 16:35:00,False,Non-reader
+hackstar,2112,Educational Codeforces Round 180 (Rated for Div. 2),771,1634,1702,68,2025-06-23 16:35:00,False,Non-reader
+hackstar,2151,Codeforces Round 1053 (Div. 2),1783,1702,1665,-37,2025-09-24 14:50:00,False,Non-reader
+hackstar,2145,Educational Codeforces Round 183 (Rated for Div. 2),2583,1665,1646,-19,2025-10-06 16:35:00,False,Non-reader
+hackstar,2153,Codeforces Round 1057 (Div. 2),841,1646,1711,65,2025-10-10 16:50:00,False,Non-reader
+azizbek_,1850,Codeforces Round 886 (Div. 4),18260,0,371,371,2023-07-21 16:35:00,True,Sometimes
+azizbek_,1881,Codeforces Round 903 (Div. 3),10340,371,644,273,2023-10-12 16:50:00,True,Sometimes
+azizbek_,1895,Educational Codeforces Round 157 (Rated for Div. 2),7844,644,854,210,2023-11-03 16:35:00,True,Sometimes
+azizbek_,1898,Codeforces Round 910 (Div. 2),6413,854,930,76,2023-11-19 16:35:00,False,Sometimes
+azizbek_,1901,Educational Codeforces Round 158 (Rated for Div. 2),4343,930,1089,159,2023-11-24 16:35:00,False,Sometimes
+azizbek_,1902,Educational Codeforces Round 159 (Rated for Div. 2),6574,1089,1113,24,2023-12-03 16:35:00,False,Sometimes
+azizbek_,1905,Codeforces Round 915 (Div. 2),6632,1113,1116,3,2023-12-16 16:35:00,False,Sometimes
+azizbek_,1913,Educational Codeforces Round 160 (Rated for Div. 2),5129,1116,1160,44,2023-12-18 16:35:00,False,Sometimes
+azizbek_,1914,Codeforces Round 916 (Div. 3),15360,1160,1062,-98,2023-12-19 17:05:00,False,Sometimes
+azizbek_,1915,Codeforces Round 918 (Div. 4),3542,1062,1145,83,2023-12-28 17:05:00,False,Sometimes
+azizbek_,1919,Hello 2024,9969,1145,1150,5,2024-01-06 17:05:00,False,Sometimes
+azizbek_,1921,Codeforces Round 920 (Div. 3),5357,1150,1194,44,2024-01-15 16:50:00,False,Sometimes
+azizbek_,1925,Codeforces Round 921 (Div. 2),5810,1194,1204,10,2024-01-27 16:45:00,False,Sometimes
+azizbek_,1927,Codeforces Round 923 (Div. 3),14521,1204,1149,-55,2024-02-06 17:00:00,False,Sometimes
+azizbek_,1928,Codeforces Round 924 (Div. 2),9133,1149,1094,-55,2024-02-11 11:35:00,False,Sometimes
+azizbek_,1931,Codeforces Round 925 (Div. 3),4181,1094,1180,86,2024-02-13 16:50:00,False,Sometimes
+azizbek_,1932,Codeforces Round 927 (Div. 3),3678,1180,1224,44,2024-02-18 14:20:00,False,Sometimes
+azizbek_,1926,Codeforces Round 928 (Div. 4),3111,1224,1267,43,2024-02-19 16:50:00,False,Sometimes
+azizbek_,1923,Educational Codeforces Round 162 (Rated for Div. 2),8517,1267,1222,-45,2024-02-23 16:35:00,False,Sometimes
+azizbek_,1933,Codeforces Round 929 (Div. 3),18476,1222,1129,-93,2024-02-27 16:50:00,False,Sometimes
+azizbek_,1937,Codeforces Round 930 (Div. 2),6622,1129,1142,13,2024-02-29 16:35:00,False,Sometimes
+azizbek_,1935,Codeforces Round 932 (Div. 2),8560,1142,1151,9,2024-03-05 16:35:00,False,Sometimes
+azizbek_,1944,Codeforces Round 934 (Div. 2),5437,1151,1175,24,2024-03-16 17:00:00,False,Sometimes
+azizbek_,1945,Codeforces Round 935 (Div. 3),4797,1175,1171,-4,2024-03-19 10:20:00,False,Sometimes
+azizbek_,1946,Codeforces Round 936 (Div. 2),6375,1171,1187,16,2024-03-22 16:35:00,False,Sometimes
+azizbek_,1950,Codeforces Round 937 (Div. 4),3770,1187,1234,47,2024-03-28 17:00:00,False,Sometimes
+azizbek_,1955,Codeforces Round 938 (Div. 3),6280,1234,1242,8,2024-04-08 16:50:00,False,Sometimes
+azizbek_,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",5347,1242,1265,23,2024-06-25 16:35:00,False,Sometimes
+azizbek_,1989,Educational Codeforces Round 167 (Rated for Div. 2),12901,1265,1177,-88,2024-06-27 16:35:00,False,Sometimes
+azizbek_,1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,8521,1177,1169,-8,2024-07-07 16:50:00,False,Sometimes
+azizbek_,1995,Codeforces Round 961 (Div. 2),5426,1169,1207,38,2024-07-23 16:35:00,False,Sometimes
+azizbek_,2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",6069,1207,1192,-15,2024-10-06 08:05:00,False,Sometimes
+azizbek_,2022,Codeforces Round 978 (Div. 2),5608,1192,1116,-76,2024-10-13 21:35:00,False,Sometimes
+azizbek_,2025,Educational Codeforces Round 170 (Rated for Div. 2),6487,1116,1160,44,2024-10-14 16:35:00,False,Sometimes
+azizbek_,2033,Codeforces Round 981 (Div. 3),3670,1160,1226,66,2024-10-24 16:50:00,False,Sometimes
+azizbek_,2027,Codeforces Round 982 (Div. 2),2066,1226,1328,102,2024-10-26 16:35:00,False,Sometimes
+azizbek_,2026,Educational Codeforces Round 171 (Rated for Div. 2),4047,1328,1353,25,2024-10-28 16:35:00,False,Sometimes
+azizbek_,2032,Codeforces Round 983 (Div. 2),4892,1353,1351,-2,2024-11-01 16:35:00,False,Sometimes
+azizbek_,2029,Refact.ai Match 1 (Codeforces Round 985),6727,1351,1240,-111,2024-11-09 17:35:00,False,Sometimes
+azizbek_,2028,Codeforces Round 986 (Div. 2),3770,1240,1251,11,2024-11-10 17:35:00,False,Sometimes
+azizbek_,2050,Codeforces Round 991 (Div. 3),957,1251,1367,116,2024-12-05 16:50:00,False,Sometimes
+azizbek_,2040,Codeforces Round 992 (Div. 2),4174,1367,1363,-4,2024-12-08 16:35:00,False,Sometimes
+azizbek_,2048,Codeforces Global Round 28,8332,1363,1301,-62,2024-12-19 17:35:00,False,Sometimes
+azizbek_,2049,Codeforces Round 994 (Div. 2),6354,1301,1288,-13,2024-12-20 16:35:00,False,Sometimes
+azizbek_,2051,Codeforces Round 995 (Div. 3),2611,1288,1339,51,2024-12-22 16:50:00,False,Sometimes
+azizbek_,2043,Educational Codeforces Round 173 (Rated for Div. 2),6176,1339,1315,-24,2024-12-24 16:35:00,False,Sometimes
+azizbek_,2053,Good Bye 2024: 2025 is NEAR,10382,1315,1239,-76,2024-12-28 17:35:00,False,Sometimes
+azizbek_,2057,Hello 2025,5718,1239,1270,31,2025-01-04 17:05:00,False,Sometimes
+azizbek_,2055,Codeforces Round 996 (Div. 2),2403,1270,1376,106,2025-01-12 16:35:00,False,Sometimes
+azizbek_,2056,Codeforces Round 997 (Div. 2),5550,1376,1367,-9,2025-01-17 16:35:00,False,Sometimes
+azizbek_,2060,Codeforces Round 998 (Div. 3),1977,1367,1420,53,2025-01-19 17:05:00,False,Sometimes
+azizbek_,2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",1963,1420,1503,83,2025-01-20 17:35:00,False,Sometimes
+azizbek_,2063,Codeforces Round 1000 (Div. 2),2588,1503,1532,29,2025-01-22 14:05:00,False,Sometimes
+azizbek_,2067,Codeforces Round 1004 (Div. 2),682,1532,1626,94,2025-02-11 16:35:00,False,Sometimes
+azizbek_,2078,Codeforces Round 1008 (Div. 2),1129,1626,1662,36,2025-03-10 17:15:00,False,Sometimes
+-Azamat-,1807,Codeforces Round 859 (Div. 4),6260,0,453,453,2023-03-19 17:10:00,True,Reader
+-Azamat-,1841,Educational Codeforces Round 150 (Rated for Div. 2),4911,453,785,332,2023-06-12 16:35:00,True,Reader
+-Azamat-,1834,Codeforces Round 879 (Div. 2),5507,785,984,199,2023-06-18 10:05:00,True,Reader
+-Azamat-,1843,Codeforces Round 881 (Div. 3),1409,984,1212,228,2023-06-20 16:50:00,True,Reader
+-Azamat-,1846,Codeforces Round 883 (Div. 3),2594,1212,1333,121,2023-07-07 16:50:00,False,Reader
+-Azamat-,1850,Codeforces Round 886 (Div. 4),451,1333,1482,149,2023-07-21 16:35:00,False,Reader
+-Azamat-,1890,Codeforces Round 906 (Div. 2),2928,1482,1463,-19,2023-10-28 17:05:00,False,Reader
+-Azamat-,1891,Codeforces Round 907 (Div. 2),6663,1463,1377,-86,2023-10-30 16:35:00,False,Reader
+-Azamat-,1895,Educational Codeforces Round 157 (Rated for Div. 2),3146,1377,1393,16,2023-11-03 16:35:00,False,Reader
+-Azamat-,1903,Codeforces Round 912 (Div. 2),1415,1393,1439,46,2023-11-30 18:50:00,False,Reader
+-Azamat-,1907,Codeforces Round 913 (Div. 3),2181,1439,1442,3,2023-12-05 17:00:00,False,Reader
+-Azamat-,1913,Educational Codeforces Round 160 (Rated for Div. 2),2366,1442,1468,26,2023-12-18 16:35:00,False,Reader
+-Azamat-,1917,Codeforces Round 917 (Div. 2),1467,1468,1532,64,2023-12-24 16:35:00,False,Reader
+-Azamat-,1920,Codeforces Round 919 (Div. 2),2725,1532,1540,8,2024-01-13 16:35:00,False,Reader
+-Azamat-,1931,Codeforces Round 925 (Div. 3),510,1540,1618,78,2024-02-13 16:50:00,False,Reader
+NewGhost,2137,Codeforces Round 1047 (Div. 3),11547,0,425,425,2025-09-07 16:50:00,True,Sometimes
+NewGhost,2148,Codeforces Round 1050 (Div. 4),7088,425,722,297,2025-09-13 16:50:00,True,Sometimes
+NewGhost,2147,Codeforces Global Round 29 (Div. 1 + Div. 2),11056,722,873,151,2025-09-20 17:35:00,False,Sometimes
+NewGhost,2149,Codeforces Round 1054 (Div. 3),14694,873,940,67,2025-09-25 16:50:00,False,Sometimes
+Jama,1927,Codeforces Round 923 (Div. 3),20547,0,382,382,2024-02-06 17:00:00,True,Reader
+Jama,1928,Codeforces Round 924 (Div. 2),11583,382,600,218,2024-02-11 11:35:00,True,Reader
+Jama,1931,Codeforces Round 925 (Div. 3),18264,600,770,170,2024-02-13 16:50:00,False,Reader
+Jama,1929,Codeforces Round 926 (Div. 2),15654,770,841,71,2024-02-15 16:35:00,False,Reader
+Jama,1930,think-cell Round 1,10118,841,889,48,2024-02-17 17:35:00,False,Reader
+Jama,1932,Codeforces Round 927 (Div. 3),15211,889,861,-28,2024-02-18 14:20:00,False,Reader
+Jama,1933,Codeforces Round 929 (Div. 3),21136,861,808,-53,2024-02-27 16:50:00,False,Reader
+Jama,1950,Codeforces Round 937 (Div. 4),22775,808,770,-38,2024-03-28 17:00:00,False,Reader
+Jama,1955,Codeforces Round 938 (Div. 3),15575,770,797,27,2024-04-08 16:50:00,False,Reader
+Jama,1956,Codeforces Round 939 (Div. 2),8919,797,835,38,2024-04-13 16:35:00,False,Reader
+Jama,1971,Codeforces Round 944 (Div. 4),15604,835,820,-15,2024-05-10 16:50:00,False,Reader
+Jama,1975,Codeforces Round 947 (Div. 1 + Div. 2),9315,820,855,35,2024-05-25 17:35:00,False,Reader
+Jama,1976,Educational Codeforces Round 166 (Rated for Div. 2),12409,855,887,32,2024-05-30 16:35:00,False,Reader
+Jama,1986,Codeforces Round 954 (Div. 3),16056,887,881,-6,2024-06-23 17:05:00,False,Reader
+Jama,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",9590,881,930,49,2024-06-25 16:35:00,False,Reader
+Jama,1988,Codeforces Round 958 (Div. 2),13156,930,901,-29,2024-07-15 16:35:00,False,Reader
+Jama,1999,Codeforces Round 964 (Div. 4),5421,901,1027,126,2024-08-06 17:00:00,False,Reader
+Jama,2008,Codeforces Round 970 (Div. 3),2350,1027,1180,153,2024-09-01 16:50:00,False,Reader
+Jama,2036,Codeforces Round 984 (Div. 3),15065,1180,1085,-95,2024-11-02 16:50:00,False,Reader
+Jama,2029,Refact.ai Match 1 (Codeforces Round 985),5183,1085,1084,-1,2024-11-09 17:35:00,False,Reader
+Odminbey,2008,Codeforces Round 970 (Div. 3),24,0,768,768,2024-09-01 16:50:00,True,Sometimes
+Odminbey,2036,Codeforces Round 984 (Div. 3),432,768,1157,389,2024-11-02 16:50:00,True,Sometimes
+Odminbey,2044,Codeforces Round 993 (Div. 4),13,1157,1573,416,2024-12-15 16:50:00,True,Sometimes
+Odminbey,2051,Codeforces Round 995 (Div. 3),10,1573,1887,314,2024-12-22 16:50:00,True,Sometimes
+Odminbey,2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",512,1887,2047,160,2025-04-19 16:35:00,False,Sometimes
+Odminbey,2101,Codeforces Round 1024 (Div. 1),595,2047,2063,16,2025-05-11 17:05:00,False,Sometimes
+Odminbey,2124,"EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",664,2063,2077,14,2025-07-06 17:35:00,False,Sometimes
+Odminbey,2128,Codeforces Round 1039 (Div. 2),72,2077,2157,80,2025-07-27 16:35:00,False,Sometimes
+Odminbey,2147,Codeforces Global Round 29 (Div. 1 + Div. 2),1055,2157,2129,-28,2025-09-20 17:35:00,False,Sometimes
+aveok,1954,Educational Codeforces Round 164 (Rated for Div. 2),6121,0,477,477,2024-04-12 16:35:00,True,Non-reader
+aveok,1969,Educational Codeforces Round 165 (Rated for Div. 2),5945,477,779,302,2024-04-29 16:35:00,True,Non-reader
+aveok,1968,Codeforces Round 943 (Div. 3),3159,779,1046,267,2024-05-02 17:00:00,True,Non-reader
+aveok,1974,Codeforces Round 946 (Div. 3),7003,1046,1187,141,2024-05-20 16:50:00,False,Non-reader
+aveok,1975,Codeforces Round 947 (Div. 1 + Div. 2),10722,1187,1178,-9,2024-05-25 17:35:00,False,Non-reader
+aveok,1979,Codeforces Round 951 (Div. 2),10114,1178,1197,19,2024-06-06 16:35:00,False,Non-reader
+aveok,1986,Codeforces Round 954 (Div. 3),6066,1197,1221,24,2024-06-23 17:05:00,False,Non-reader
+aveok,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",9456,1221,1181,-40,2024-06-25 16:35:00,False,Non-reader
+aveok,1989,Educational Codeforces Round 167 (Rated for Div. 2),8538,1181,1167,-14,2024-06-27 16:35:00,False,Non-reader
+aveok,1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),8373,1167,1144,-23,2024-06-30 17:35:00,False,Non-reader
+aveok,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),9964,1144,1101,-43,2024-07-18 16:35:00,False,Non-reader
+aveok,1995,Codeforces Round 961 (Div. 2),6229,1101,1143,42,2024-07-23 16:35:00,False,Non-reader
+aveok,1996,Codeforces Round 962 (Div. 3),6220,1143,1181,38,2024-07-26 17:05:00,False,Non-reader
+aveok,1999,Codeforces Round 964 (Div. 4),778,1181,1334,153,2024-08-06 17:00:00,False,Non-reader
+aveok,1998,Codeforces Round 965 (Div. 2),4267,1334,1373,39,2024-08-10 16:35:00,False,Non-reader
+aveok,2001,Codeforces Round 967 (Div. 2),16508,1373,1255,-118,2024-08-20 16:35:00,False,Non-reader
+aveok,2014,Codeforces Round 974 (Div. 3),4220,1255,1282,27,2024-09-21 17:00:00,False,Non-reader
+aveok,2033,Codeforces Round 981 (Div. 3),15688,1282,1186,-96,2024-10-24 16:50:00,False,Non-reader
+aveok,2035,Codeforces Global Round 27,5320,1186,1206,20,2024-10-27 17:35:00,False,Non-reader
+aveok,2026,Educational Codeforces Round 171 (Rated for Div. 2),3626,1206,1278,72,2024-10-28 16:35:00,False,Non-reader
+aveok,2031,Codeforces Round 987 (Div. 2),6385,1278,1240,-38,2024-11-15 14:35:00,False,Non-reader
+aveok,2037,Codeforces Round 988 (Div. 3),2672,1240,1284,44,2024-11-17 16:50:00,False,Non-reader
+aveok,2047,Codeforces Round 990 (Div. 2),2252,1284,1300,16,2024-12-03 08:25:00,False,Non-reader
+aveok,2067,Codeforces Round 1004 (Div. 2),4817,1300,1317,17,2025-02-11 16:35:00,False,Non-reader
+aveok,2069,Educational Codeforces Round 174 (Rated for Div. 2),3356,1317,1364,47,2025-02-18 16:35:00,False,Non-reader
+aveok,2078,Codeforces Round 1008 (Div. 2),3309,1364,1392,28,2025-03-10 17:15:00,False,Non-reader
+aveok,2074,Codeforces Round 1009 (Div. 3),3751,1392,1392,0,2025-03-11 17:05:00,False,Non-reader
+aveok,2107,Codeforces Round 1023 (Div. 2),1088,1392,1496,104,2025-05-05 16:50:00,False,Non-reader
+aveok,2102,Codeforces Round 1024 (Div. 2),4689,1496,1437,-59,2025-05-11 17:05:00,False,Non-reader
+ismoilmirzouz,1790,Codeforces Round 847 (Div. 3),16651,0,365,365,2023-01-27 16:50:00,True,Reader
+ismoilmirzouz,1832,Educational Codeforces Round 148 (Rated for Div. 2),8212,365,645,280,2023-05-12 16:35:00,True,Reader
+ismoilmirzouz,1837,Educational Codeforces Round 149 (Rated for Div. 2),9715,645,935,290,2023-05-25 16:35:00,True,Reader
+ismoilmirzouz,1831,Codeforces Round 875 (Div. 2),5933,935,1070,135,2023-05-28 17:05:00,False,Reader
+ismoilmirzouz,1839,Codeforces Round 876 (Div. 2),7484,1070,1090,20,2023-06-03 16:35:00,False,Reader
+ismoilmirzouz,1840,Codeforces Round 878 (Div. 3),9661,1090,1096,6,2023-06-06 16:50:00,False,Reader
+ismoilmirzouz,1841,Educational Codeforces Round 150 (Rated for Div. 2),8483,1096,1078,-18,2023-06-12 16:35:00,False,Reader
+ismoilmirzouz,1836,Codeforces Round 880 (Div. 2),2766,1078,1185,107,2023-06-18 16:35:00,False,Reader
+ismoilmirzouz,1845,Educational Codeforces Round 151 (Rated for Div. 2),3911,1185,1243,58,2023-06-29 16:35:00,False,Reader
+ismoilmirzouz,1847,Codeforces Round 882 (Div. 2),5085,1243,1256,13,2023-07-06 16:50:00,False,Reader
+ismoilmirzouz,1844,Codeforces Round 884 (Div. 1 + Div. 2),9094,1256,1209,-47,2023-07-11 17:35:00,False,Reader
+ismoilmirzouz,1849,Educational Codeforces Round 152 (Rated for Div. 2),7386,1209,1199,-10,2023-07-27 16:35:00,False,Reader
+ismoilmirzouz,1855,Codeforces Round 889 (Div. 2),5981,1199,1214,15,2023-07-29 17:05:00,False,Reader
+ismoilmirzouz,1856,Codeforces Round 890 (Div. 2) supported by Constructor Institute,7270,1214,1204,-10,2023-08-05 16:35:00,False,Reader
+ismoilmirzouz,1857,Codeforces Round 891 (Div. 3),7098,1204,1206,2,2023-08-07 16:50:00,False,Reader
+ismoilmirzouz,1859,Codeforces Round 892 (Div. 2),6870,1206,1216,10,2023-08-12 16:35:00,False,Reader
+ismoilmirzouz,1860,Educational Codeforces Round 153 (Rated for Div. 2),6200,1216,1231,15,2023-08-17 16:35:00,False,Reader
+ismoilmirzouz,1862,Codeforces Round 894 (Div. 3),7231,1231,1215,-16,2023-08-24 16:50:00,False,Reader
+ismoilmirzouz,1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),6734,1215,1209,-6,2023-08-26 17:35:00,False,Reader
+ismoilmirzouz,1872,Codeforces Round 895 (Div. 3),3239,1209,1262,53,2023-09-07 16:50:00,False,Reader
+ismoilmirzouz,1867,Codeforces Round 897 (Div. 2),6140,1262,1239,-23,2023-09-11 16:35:00,False,Reader
+ismoilmirzouz,1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",5225,1239,1255,16,2023-09-18 16:50:00,False,Reader
+ismoilmirzouz,1873,Codeforces Round 898 (Div. 4),1268,1255,1335,80,2023-09-21 17:05:00,False,Reader
+ismoilmirzouz,1879,Educational Codeforces Round 155 (Rated for Div. 2),3430,1335,1371,36,2023-09-24 16:35:00,False,Reader
+ismoilmirzouz,1878,Codeforces Round 900 (Div. 3),2081,1371,1410,39,2023-09-26 16:50:00,False,Reader
+ismoilmirzouz,1898,Codeforces Round 910 (Div. 2),3881,1410,1357,-53,2023-11-19 16:35:00,False,Reader
+ismoilmirzouz,1900,Codeforces Round 911 (Div. 2),4039,1357,1329,-28,2023-11-26 16:35:00,False,Reader
+ismoilmirzouz,1903,Codeforces Round 912 (Div. 2),1319,1329,1400,71,2023-11-30 18:50:00,False,Reader
+ismoilmirzouz,1902,Educational Codeforces Round 159 (Rated for Div. 2),4801,1400,1356,-44,2023-12-03 16:35:00,False,Reader
+ismoilmirzouz,1907,Codeforces Round 913 (Div. 3),2405,1356,1376,20,2023-12-05 17:00:00,False,Reader
+ismoilmirzouz,1904,Codeforces Round 914 (Div. 2),2254,1376,1397,21,2023-12-09 18:05:00,False,Reader
+ismoilmirzouz,1913,Educational Codeforces Round 160 (Rated for Div. 2),2182,1397,1442,45,2023-12-18 16:35:00,False,Reader
+ismoilmirzouz,1914,Codeforces Round 916 (Div. 3),1849,1442,1460,18,2023-12-19 17:05:00,False,Reader
+ismoilmirzouz,1909,Pinely Round 3 (Div. 1 + Div. 2),3211,1460,1468,8,2023-12-23 17:35:00,False,Reader
+ismoilmirzouz,1916,Good Bye 2023,6111,1468,1454,-14,2023-12-30 16:50:00,False,Reader
+ismoilmirzouz,1920,Codeforces Round 919 (Div. 2),3053,1454,1473,19,2024-01-13 16:35:00,False,Reader
+ismoilmirzouz,1921,Codeforces Round 920 (Div. 3),145,1473,1629,156,2024-01-15 16:50:00,False,Reader
+ismoilmirzouz,1957,Codeforces Round 940 (Div. 2) and CodeCraft-23,3584,1629,1579,-50,2024-04-21 16:50:00,False,Reader
+ismoilmirzouz,1966,Codeforces Round 941 (Div. 2),3086,1579,1532,-47,2024-04-27 16:35:00,False,Reader
+ismoilmirzouz,1986,Codeforces Round 954 (Div. 3),10672,1532,1432,-100,2024-06-23 17:05:00,False,Reader
+ismoilmirzouz,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",6991,1432,1380,-52,2024-06-25 16:35:00,False,Reader
+ismoilmirzouz,1989,Educational Codeforces Round 167 (Rated for Div. 2),1379,1380,1487,107,2024-06-27 16:35:00,False,Reader
+ismoilmirzouz,1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,4823,1487,1463,-24,2024-07-07 16:50:00,False,Reader
+ismoilmirzouz,1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),6840,1463,1406,-57,2024-07-18 16:35:00,False,Reader
+ismoilmirzouz,1990,Codeforces Round 960 (Div. 2),3533,1406,1426,20,2024-07-20 16:35:00,False,Reader
+ismoilmirzouz,1991,Pinely Round 4 (Div. 1 + Div. 2),3455,1426,1461,35,2024-07-28 17:35:00,False,Reader
+ismoilmirzouz,1997,Educational Codeforces Round 168 (Rated for Div. 2),3005,1461,1501,40,2024-07-30 16:35:00,False,Reader
+ismoilmirzouz,2007,Codeforces Round 969 (Div. 2),3292,1501,1492,-9,2024-08-30 17:05:00,False,Reader
+ismoilmirzouz,2005,Codeforces Round 972 (Div. 2),3424,1492,1496,4,2024-09-14 16:35:00,False,Reader
+ismoilmirzouz,2014,Codeforces Round 974 (Div. 3),5156,1496,1447,-49,2024-09-21 17:00:00,False,Reader
+ismoilmirzouz,2019,Codeforces Round 975 (Div. 2),6348,1447,1388,-59,2024-09-27 16:05:00,False,Reader
+ismoilmirzouz,2020,Codeforces Round 976 (Div. 2) and Divide By Zero 9.0,4225,1388,1396,8,2024-09-29 17:35:00,False,Reader
+ismoilmirzouz,2025,Educational Codeforces Round 170 (Rated for Div. 2),3085,1396,1434,38,2024-10-14 16:35:00,False,Reader
+ismoilmirzouz,2024,Codeforces Round 980 (Div. 2),3061,1434,1433,-1,2024-10-20 11:05:00,False,Reader
+ismoilmirzouz,2033,Codeforces Round 981 (Div. 3),2538,1433,1444,11,2024-10-24 16:50:00,False,Reader
+ismoilmirzouz,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",7347,1444,1398,-46,2025-01-26 17:05:00,False,Reader
+ismoilmirzouz,2059,Codeforces Round 1002 (Div. 2),3676,1398,1425,27,2025-02-02 16:35:00,False,Reader
+ismoilmirzouz,2067,Codeforces Round 1004 (Div. 2),3392,1425,1438,13,2025-02-11 16:35:00,False,Reader
+ismoilmirzouz,2064,Codeforces Round 1005 (Div. 2),5629,1438,1410,-28,2025-02-16 16:35:00,False,Reader
+ismoilmirzouz,2069,Educational Codeforces Round 174 (Rated for Div. 2),4145,1410,1413,3,2025-02-18 16:35:00,False,Reader
+ismoilmirzouz,2072,Codeforces Round 1006 (Div. 3),3292,1413,1419,6,2025-02-25 16:50:00,False,Reader
+ismoilmirzouz,2070,Educational Codeforces Round 175 (Rated for Div. 2),4889,1419,1402,-17,2025-02-27 16:35:00,False,Reader
+ismoilmirzouz,2078,Codeforces Round 1008 (Div. 2),1084,1402,1505,103,2025-03-10 17:15:00,False,Reader
+ismoilmirzouz,2074,Codeforces Round 1009 (Div. 3),8965,1505,1418,-87,2025-03-11 17:05:00,False,Reader
+ismoilmirzouz,2075,Educational Codeforces Round 176 (Rated for Div. 2),2085,1418,1484,66,2025-03-17 16:35:00,False,Reader
+ismoilmirzouz,2090,Codeforces Round 1012 (Div. 2),678,1484,1561,77,2025-03-23 08:05:00,False,Reader
+ismoilmirzouz,2092,Codeforces Round 1014 (Div. 2),2339,1561,1580,19,2025-03-29 16:35:00,False,Reader
+ismoilmirzouz,2086,Educational Codeforces Round 177 (Rated for Div. 2),2961,1580,1570,-10,2025-04-03 16:35:00,False,Reader
+ismoilmirzouz,2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",5782,1570,1491,-79,2025-04-05 17:35:00,False,Reader
+ismoilmirzouz,2093,Codeforces Round 1016 (Div. 3),2812,1491,1482,-9,2025-04-08 16:50:00,False,Reader
+ismoilmirzouz,2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",5537,1482,1447,-35,2025-04-19 16:35:00,False,Reader
+ismoilmirzouz,2103,Codeforces Round 1019 (Div. 2),3996,1447,1434,-13,2025-04-21 16:35:00,False,Reader
+ismoilmirzouz,2106,Codeforces Round 1020 (Div. 3),2407,1434,1440,6,2025-04-24 16:50:00,False,Reader
+ismoilmirzouz,2098,Codeforces Round 1021 (Div. 2),478,1440,1549,109,2025-04-26 11:35:00,False,Reader
+ismoilmirzouz,2104,Educational Codeforces Round 178 (Rated for Div. 2),873,1549,1626,77,2025-04-28 16:35:00,False,Reader
+ismoilmirzouz,2107,Codeforces Round 1023 (Div. 2),667,1626,1698,72,2025-05-05 16:50:00,False,Reader
+ismoilmirzouz,2102,Codeforces Round 1024 (Div. 2),4974,1698,1592,-106,2025-05-11 17:05:00,False,Reader
+ismoilmirzouz,2116,Codeforces Round 1028 (Div. 2),2867,1592,1580,-12,2025-05-31 16:35:00,False,Reader
+ismoilmirzouz,2111,Educational Codeforces Round 179 (Rated for Div. 2),1743,1580,1599,19,2025-06-03 16:35:00,False,Reader
+ismoilmirzouz,2113,Codeforces Round 1031 (Div. 2),1781,1599,1594,-5,2025-06-15 11:05:00,False,Reader
+ismoilmirzouz,2126,Codeforces Round 1037 (Div. 3),81,1594,1741,147,2025-07-17 16:50:00,False,Reader
+ismoilmirzouz,2136,Codeforces Round 1046 (Div. 2),1100,1741,1747,6,2025-08-28 17:35:00,False,Reader
+Diyorbek_Sh,1986,Codeforces Round 954 (Div. 3),15726,0,398,398,2024-06-23 17:05:00,True,Sometimes
+Diyorbek_Sh,1982,"Codeforces Round 955 (Div. 2, with prizes from NEAR!)",9334,398,692,294,2024-06-25 16:35:00,True,Sometimes
+Diyorbek_Sh,1989,Educational Codeforces Round 167 (Rated for Div. 2),8538,692,913,221,2024-06-27 16:35:00,True,Sometimes
+Diyorbek_Sh,1992,Codeforces Round 957 (Div. 3),19032,913,967,54,2024-07-11 16:50:00,False,Sometimes
+Diyorbek_Sh,1996,Codeforces Round 962 (Div. 3),17035,967,1004,37,2024-07-26 17:05:00,False,Sometimes
+Diyorbek_Sh,2001,Codeforces Round 967 (Div. 2),15889,1004,1000,-4,2024-08-20 16:35:00,False,Sometimes
+Diyorbek_Sh,2013,Codeforces Round 973 (Div. 2),9107,1000,1030,30,2024-09-20 16:35:00,False,Sometimes
+Diyorbek_Sh,2014,Codeforces Round 974 (Div. 3),14568,1030,990,-40,2024-09-21 17:00:00,False,Sometimes
+Diyorbek_Sh,2025,Educational Codeforces Round 170 (Rated for Div. 2),6204,990,1081,91,2024-10-14 16:35:00,False,Sometimes
+Diyorbek_Sh,2033,Codeforces Round 981 (Div. 3),16262,1081,1015,-66,2024-10-24 16:50:00,False,Sometimes
+Diyorbek_Sh,2037,Codeforces Round 988 (Div. 3),4838,1015,1078,63,2024-11-17 16:50:00,False,Sometimes
+Diyorbek_Sh,2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",6032,1078,1103,25,2024-11-30 17:35:00,False,Sometimes
+Diyorbek_Sh,2050,Codeforces Round 991 (Div. 3),8301,1103,1093,-10,2024-12-05 16:50:00,False,Sometimes
+Diyorbek_Sh,2044,Codeforces Round 993 (Div. 4),9341,1093,1078,-15,2024-12-15 16:50:00,False,Sometimes
+Diyorbek_Sh,2048,Codeforces Global Round 28,9087,1078,1070,-8,2024-12-19 17:35:00,False,Sometimes
+Diyorbek_Sh,2051,Codeforces Round 995 (Div. 3),14332,1070,1018,-52,2024-12-22 16:50:00,False,Sometimes
+Diyorbek_Sh,2043,Educational Codeforces Round 173 (Rated for Div. 2),10379,1018,1004,-14,2024-12-24 16:35:00,False,Sometimes
+Diyorbek_Sh,2053,Good Bye 2024: 2025 is NEAR,10973,1004,986,-18,2024-12-28 17:35:00,False,Sometimes
+Diyorbek_Sh,2060,Codeforces Round 998 (Div. 3),10169,986,1023,37,2025-01-19 17:05:00,False,Sometimes
+Diyorbek_Sh,2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",10665,1023,965,-58,2025-01-20 17:35:00,False,Sometimes
+Diyorbek_Sh,2063,Codeforces Round 1000 (Div. 2),11101,965,972,7,2025-01-22 14:05:00,False,Sometimes
+Diyorbek_Sh,2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",12252,972,952,-20,2025-01-26 17:05:00,False,Sometimes
+Diyorbek_Sh,2065,Codeforces Round 1003 (Div. 4),10909,952,981,29,2025-02-09 16:50:00,False,Sometimes
+Diyorbek_Sh,2072,Codeforces Round 1006 (Div. 3),6172,981,1070,89,2025-02-25 16:50:00,False,Sometimes
+Diyorbek_Sh,2070,Educational Codeforces Round 175 (Rated for Div. 2),4641,1070,1160,90,2025-02-27 16:35:00,False,Sometimes
+Diyorbek_Sh,2071,Codeforces Round 1007 (Div. 2),8369,1160,1154,-6,2025-02-28 16:50:00,False,Sometimes
+Diyorbek_Sh,2086,Educational Codeforces Round 177 (Rated for Div. 2),8109,1154,1155,1,2025-04-03 16:35:00,False,Sometimes
+Diyorbek_Sh,2093,Codeforces Round 1016 (Div. 3),5440,1155,1193,38,2025-04-08 16:50:00,False,Sometimes
+Diyorbek_Sh,2094,Codeforces Round 1017 (Div. 4),4161,1193,1222,29,2025-04-13 17:50:00,False,Sometimes
+Diyorbek_Sh,2106,Codeforces Round 1020 (Div. 3),7860,1222,1193,-29,2025-04-24 16:50:00,False,Sometimes
+Diyorbek_Sh,2104,Educational Codeforces Round 178 (Rated for Div. 2),8222,1193,1137,-56,2025-04-28 16:35:00,False,Sometimes
+Diyorbek_Sh,2107,Codeforces Round 1023 (Div. 2),6688,1137,1124,-13,2025-05-05 16:50:00,False,Sometimes
+Diyorbek_Sh,2117,Codeforces Round 1029 (Div. 3),7390,1124,1141,17,2025-06-08 16:50:00,False,Sometimes
+Diyorbek_Sh,2118,Codeforces Round 1030 (Div. 2),9911,1141,1133,-8,2025-06-12 16:35:00,False,Sometimes
+Diyorbek_Sh,2121,Codeforces Round 1032 (Div. 3),11534,1133,1106,-27,2025-06-17 16:50:00,False,Sometimes
+Diyorbek_Sh,2112,Educational Codeforces Round 180 (Rated for Div. 2),8144,1106,1123,17,2025-06-23 16:35:00,False,Sometimes
+Diyorbek_Sh,2123,Codeforces Round 1034 (Div. 3),12047,1123,1097,-26,2025-07-01 16:50:00,False,Sometimes
+Diyorbek_Sh,2125,Educational Codeforces Round 181 (Rated for Div. 2),14314,1097,1039,-58,2025-07-22 16:35:00,False,Sometimes
+Diyorbek_Sh,2127,"Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",7622,1039,1075,36,2025-08-07 17:35:00,False,Sometimes
+Diyorbek_Sh,2131,Codeforces Round 1042 (Div. 3),14025,1075,1041,-34,2025-08-10 16:50:00,False,Sometimes
+Diyorbek_Sh,2132,Codeforces Round 1043 (Div. 3),9915,1041,1068,27,2025-08-21 16:50:00,False,Sometimes
+Diyorbek_Sh,2133,Codeforces Round 1044 (Div. 2),10331,1068,1076,8,2025-08-24 16:35:00,False,Sometimes
+Diyorbek_Sh,2134,Codeforces Round 1045 (Div. 2),11689,1076,1057,-19,2025-08-26 16:35:00,False,Sometimes
+Diyorbek_Sh,2136,Codeforces Round 1046 (Div. 2),7603,1057,1089,32,2025-08-28 17:35:00,False,Sometimes
+Diyorbek_Sh,2140,Codeforces Round 1049 (Div. 2),7027,1089,1124,35,2025-09-09 16:35:00,False,Sometimes
+Diyorbek_Sh,2148,Codeforces Round 1050 (Div. 4),3105,1124,1186,62,2025-09-13 16:50:00,False,Sometimes
+Diyorbek_Sh,2144,Educational Codeforces Round 182 (Rated for Div. 2),9411,1186,1150,-36,2025-09-15 16:35:00,False,Sometimes
+Diyorbek_Sh,2143,Codeforces Round 1051 (Div. 2),12064,1150,1044,-106,2025-09-17 16:35:00,False,Sometimes
+Diyorbek_Sh,2146,Codeforces Round 1052 (Div. 2),6405,1044,1084,40,2025-09-21 16:50:00,False,Sometimes
+Diyorbek_Sh,2151,Codeforces Round 1053 (Div. 2),4577,1084,1111,27,2025-09-24 14:50:00,False,Sometimes
+Diyorbek_Sh,2149,Codeforces Round 1054 (Div. 3),5124,1111,1159,48,2025-09-25 16:50:00,False,Sometimes
+Diyorbek_Sh,2153,Codeforces Round 1057 (Div. 2),4637,1159,1229,70,2025-10-10 16:50:00,False,Sometimes
